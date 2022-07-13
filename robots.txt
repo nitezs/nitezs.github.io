@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+User-agent: Censys
+Disabled: /
+Sitemap: https://www.nite07.com/sitemap.xml
+Sitemap: https://www.nite07.com/baidusitemap.xml
