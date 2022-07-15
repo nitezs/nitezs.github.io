@@ -6,7 +6,7 @@
   <link href="https://www.nite07.com/atom.xml" rel="self"/>
   
   <link href="https://www.nite07.com/"/>
-  <updated>2022-07-15T03:18:16.000Z</updated>
+  <updated>2022-07-15T05:00:00.000Z</updated>
   <id>https://www.nite07.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>iMyFone Passper for ZIP 3.7.0.2 (安装/便携) 学习版</title>
-    <link href="https://www.nite07.com/passperforzip/"/>
-    <id>https://www.nite07.com/passperforzip/</id>
-    <published>2022-07-15T03:18:16.000Z</published>
-    <updated>2022-07-15T03:18:16.000Z</updated>
+    <title>SmartTube Next 15.30 去广告版</title>
+    <link href="https://www.nite07.com/smarttubenext/"/>
+    <id>https://www.nite07.com/smarttubenext/</id>
+    <published>2022-04-27T00:59:56.000Z</published>
+    <updated>2022-07-15T05:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Passper for ZIP可以从各种情况下恢复ZIP密码。作为最佳的ZIP存档密码恢复工具，Passper for ZIP的目标是在以下情况下恢复所有锁定的ZIP &#x2F; WinZIP &#x2F; 7ZIP存档：忘记ZIP密码、无法打开ZIP存档、重置ZIP密码。这款专业的ZIP密码解锁器提供4种攻击模式。选择最好的一种，以帮助您在几分钟内从ZIP文件中解锁密码。字典攻击：尝试基于内置或自定义词典的密码组合。组合攻击：组合您选择用来搜索密码的字符，例如符号，字母和数字。面具攻击：您可以为您不记得的那些部分设置带有遮罩符号的遮罩。蛮力攻击：如果您忘记了密码，请随机尝试所有可能的密码组合。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Passper-for-ZIP/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://file.nite07.com/cn/Passper-for-ZIP_3.7.0.2.7z">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://file.nite07.com/cn/Passper-for-ZIP_3.7.0.2_Portable.7z">下载</a></p><h2 id="3GB密码字典"><a href="#3GB密码字典" class="headerlink" title="3GB密码字典"></a>3GB密码字典</h2><blockquote><p>由<strong>System3206</strong>分享</p></blockquote><ul><li>1.键盘组合密码</li><li>2.数字组合</li><li>3.26个英文字母组合</li><li>4.生日密码组合</li><li>5.1000个弱口令密码</li><li>6.拼音</li><li>7.数字与字母混合</li></ul><p><a href="https://file.nite07.com/cn/3GB%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8.txt">下载</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>SmartTube Next 是一款出色的 YouTube 非官方 Android 客户端。如果您想在没有烦人的广告的情况下观看 YouTube，那么这款应用适合您。该程序是开源的并且完全免费。您只需要互联网的速度和稳定性。<br>Источник: <a href="https://gogosmart.pro/zh/prilozheniya/smarttube-next.html">https://gogosmart.pro/zh/prilozheniya/smarttube-next.html</a></p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/SmartTube-Next/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/SmartTube-Next_15.30.apk">下载</a></p>]]></content>
     
     
       
@@ -38,18 +38,20 @@
     
     <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
     
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
     
-    <category term="压缩解压" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%8E%8B%E7%BC%A9%E8%A7%A3%E5%8E%8B/"/>
+    <category term="影音视听" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%BD%B1%E9%9F%B3%E8%A7%86%E5%90%AC/"/>
+    
+    <category term="TV应用" scheme="https://www.nite07.com/categories/TV%E5%BA%94%E7%94%A8/"/>
     
     
     <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
     
     <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
     
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
     
-    <category term="Passper for ZIP" scheme="https://www.nite07.com/tags/Passper-for-ZIP/"/>
+    <category term="SmartTube" scheme="https://www.nite07.com/tags/SmartTube/"/>
     
   </entry>
   
@@ -87,6 +89,43 @@
     <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
     
     <category term="Passper for RAR" scheme="https://www.nite07.com/tags/Passper-for-RAR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iMyFone Passper for ZIP 3.7.0.2 (安装/便携) 学习版</title>
+    <link href="https://www.nite07.com/passperforzip/"/>
+    <id>https://www.nite07.com/passperforzip/</id>
+    <published>2022-07-15T03:18:16.000Z</published>
+    <updated>2022-07-15T03:18:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Passper for ZIP可以从各种情况下恢复ZIP密码。作为最佳的ZIP存档密码恢复工具，Passper for ZIP的目标是在以下情况下恢复所有锁定的ZIP &#x2F; WinZIP &#x2F; 7ZIP存档：忘记ZIP密码、无法打开ZIP存档、重置ZIP密码。这款专业的ZIP密码解锁器提供4种攻击模式。选择最好的一种，以帮助您在几分钟内从ZIP文件中解锁密码。字典攻击：尝试基于内置或自定义词典的密码组合。组合攻击：组合您选择用来搜索密码的字符，例如符号，字母和数字。面具攻击：您可以为您不记得的那些部分设置带有遮罩符号的遮罩。蛮力攻击：如果您忘记了密码，请随机尝试所有可能的密码组合。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Passper-for-ZIP/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://file.nite07.com/cn/Passper-for-ZIP_3.7.0.2.7z">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://file.nite07.com/cn/Passper-for-ZIP_3.7.0.2_Portable.7z">下载</a></p><h2 id="3GB密码字典"><a href="#3GB密码字典" class="headerlink" title="3GB密码字典"></a>3GB密码字典</h2><blockquote><p>由<strong>System3206</strong>分享</p></blockquote><ul><li>1.键盘组合密码</li><li>2.数字组合</li><li>3.26个英文字母组合</li><li>4.生日密码组合</li><li>5.1000个弱口令密码</li><li>6.拼音</li><li>7.数字与字母混合</li></ul><p><a href="https://file.nite07.com/cn/3GB%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8.txt">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="压缩解压" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%8E%8B%E7%BC%A9%E8%A7%A3%E5%8E%8B/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="Passper for ZIP" scheme="https://www.nite07.com/tags/Passper-for-ZIP/"/>
     
   </entry>
   
@@ -241,6 +280,43 @@
   </entry>
   
   <entry>
+    <title>Battery Guru 1.9.29.1 Build 307 学习版</title>
+    <link href="https://www.nite07.com/batteryguru/"/>
+    <id>https://www.nite07.com/batteryguru/</id>
+    <published>2022-03-20T13:15:44.000Z</published>
+    <updated>2022-07-15T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Battery Guru 显示电池使用情况信息，测量电池容量（mAh），显示估算值，并通过有用的技巧来帮助您更改充电习惯，以延长电池寿命并延长其寿命200％。 Battery Guru Battery Saver 旨在使电池保持最佳状态并带来健康生活，照顾电池健康并优化其性能，显示电池的健康状况。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Battery-Guru/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Battery-Guru_1.9.29.1-build-307.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="硬件相关" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Clash for Windows 0.19.24 (英文/中文) 及使用教程</title>
     <link href="https://www.nite07.com/clashforwindowsguide/"/>
     <id>https://www.nite07.com/clashforwindowsguide/</id>
@@ -276,43 +352,6 @@
     <category term="冲浪技巧" scheme="https://www.nite07.com/tags/%E5%86%B2%E6%B5%AA%E6%8A%80%E5%B7%A7/"/>
     
     <category term="cfw" scheme="https://www.nite07.com/tags/cfw/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Battery Guru 1.9.29.1 Build 307 学习版</title>
-    <link href="https://www.nite07.com/batteryguru/"/>
-    <id>https://www.nite07.com/batteryguru/</id>
-    <published>2022-03-20T13:15:44.000Z</published>
-    <updated>2022-07-15T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Battery Guru 显示电池使用情况信息，测量电池容量（mAh），显示估算值，并通过有用的技巧来帮助您更改充电习惯，以延长电池寿命并延长其寿命200％。 Battery Guru Battery Saver 旨在使电池保持最佳状态并带来健康生活，照顾电池健康并优化其性能，显示电池的健康状况。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Battery-Guru/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Battery-Guru_1.9.29.1-build-307.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="硬件相关" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -461,45 +500,6 @@
     <category term="学习版" scheme="https://www.nite07.com/tags/%E5%AD%A6%E4%B9%A0%E7%89%88/"/>
     
     <category term="bandicam" scheme="https://www.nite07.com/tags/bandicam/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SmartTube Next 15.29 去广告版</title>
-    <link href="https://www.nite07.com/smarttubenext/"/>
-    <id>https://www.nite07.com/smarttubenext/</id>
-    <published>2022-04-27T00:59:56.000Z</published>
-    <updated>2022-07-14T15:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>SmartTube Next 是一款出色的 YouTube 非官方 Android 客户端。如果您想在没有烦人的广告的情况下观看 YouTube，那么这款应用适合您。该程序是开源的并且完全免费。您只需要互联网的速度和稳定性。<br>Источник: <a href="https://gogosmart.pro/zh/prilozheniya/smarttube-next.html">https://gogosmart.pro/zh/prilozheniya/smarttube-next.html</a></p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/SmartTube-Next/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/SmartTube-Next_15.29.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="影音视听" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%BD%B1%E9%9F%B3%E8%A7%86%E5%90%AC/"/>
-    
-    <category term="TV应用" scheme="https://www.nite07.com/categories/TV%E5%BA%94%E7%94%A8/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="SmartTube" scheme="https://www.nite07.com/tags/SmartTube/"/>
     
   </entry>
   
