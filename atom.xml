@@ -6,7 +6,7 @@
   <link href="https://www.nite07.com/atom.xml" rel="self"/>
   
   <link href="https://www.nite07.com/"/>
-  <updated>2022-07-21T03:00:00.000Z</updated>
+  <updated>2022-07-21T11:12:11.000Z</updated>
   <id>https://www.nite07.com/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[涅槃秋凤][22H2]Win10.0.19045.1826酸菜极速三合一</title>
+    <link href="https://www.nite07.com/zxgu/"/>
+    <id>https://www.nite07.com/zxgu/</id>
+    <published>2022-07-21T11:12:11.000Z</published>
+    <updated>2022-07-21T11:12:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近来研究了下Win10的各个版本，觉得这三个版本比较有意义，于是乎整了这个镜像给老师<br>以WEIP为母盘微调优化制作，包含<strong>企业政府版、专业工作站版、iot LTSC 2021</strong><br>本系统经过19045.1806以来长期多次测试，实机安装和多数虚拟机都没有问题，新版Adobe和Microsoft Office等软件正常安装，专工稳定支持大游戏<br><strong>不封装</strong>，保留原味驱动和WinRE，保留功能组件和附件，可更新</p><h3 id="资源直达"><a href="#资源直达" class="headerlink" title="资源直达"></a>资源直达</h3><ul><li>Nite07公益盘：<a href="https://share.nite07.com/s/14yFJ">https://share.nite07.com/s/14yFJ</a></li><li>香港盘：<a href="https://pan.huang1111.cn/s/MeoVfx">https://pan.huang1111.cn/s/MeoVfx</a></li><li>分秒帧：<a href="https://mdl.ink/Ooa34e">https://mdl.ink/Ooa34e</a></li><li>OneDrive国际版：<a href="https://liuxiane5-my.sharepoint.com/:f:/g/personal/zxgu183_e5_liuxianl_com/EgBtXMgl4rdHq2rehMvAK58BPFK7hu-yqbMgnRwrInIGcQ?e=ZxuSRU">https://liuxiane5-my.sharepoint.com/:f:/g/personal/zxgu183_e5_liuxianl_com/EgBtXMgl4rdHq2rehMvAK58BPFK7hu-yqbMgnRwrInIGcQ?e=ZxuSRU</a></li></ul><h3 id="系统信息截图"><a href="#系统信息截图" class="headerlink" title="系统信息截图"></a>系统信息截图</h3><p><img src="https://tva3.sinaimg.cn/large/0073r2KBly1h4ag66vozaj30ty0hqwmo.jpg" alt="0073r2KBly1h4ag66vozaj30ty0hqwmo.jpg"></p><h3 id="系统状态截图"><a href="#系统状态截图" class="headerlink" title="系统状态截图"></a>系统状态截图</h3><p><img src="https://tvax2.sinaimg.cn/large/0073r2KBly1h4af40rwbdj30yk0okqgj.jpg" alt="0073r2KBly1h4af40rwbdj30yk0okqgj.jpg"><br><img src="https://tvax2.sinaimg.cn/large/0073r2KBly1h4aemml0ihj30vg0oaqdt.jpg" alt="0073r2KBly1h4aemml0ihj30vg0oaqdt.jpg"></p><h3 id="集成列表"><a href="#集成列表" class="headerlink" title="集成列表"></a>集成列表</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">集成.NET 3.5框架</span><br><span class="line">系统图标替换为太阳谷图标</span><br><span class="line">Win32计算器顶替UWP计算器并替换来自MDL的Metro皮肤</span><br><span class="line">Windows Media Player顶替UWP播放器并替换来自MDL的Metro皮肤</span><br><span class="line">照片查看器顶替UWP图片并替换来自MDL的Metro皮肤</span><br><span class="line">IE顶替Edge并在桌面显示图标</span><br><span class="line">桌面右键新增传统个性化</span><br><span class="line">桌面右键菜单添加控制面板、设备管理器、文件资源管理器选项、系统配置、注册表编辑器</span><br><span class="line">此电脑右键添加&quot;关闭显示器&quot;菜单</span><br><span class="line">新建菜单添加&quot;注册表&quot;、&quot;批处理&quot;</span><br><span class="line">回收站右键&quot;清除DNS缓存&quot;、清空回收站“菜单置顶</span><br><span class="line">打开剪贴板历史记录</span><br></pre></td></tr></table></figure><h3 id="皮肤截图"><a href="#皮肤截图" class="headerlink" title="皮肤截图"></a>皮肤截图</h3><p><img src="https://tva1.sinaimg.cn/large/0073r2KBly1h4aeunwa05j30z10j94b5.jpg" alt="0073r2KBly1h4aeunwa05j30z10j94b5.jpg"></p><h3 id="移除应用较多，还剩下这些"><a href="#移除应用较多，还剩下这些" class="headerlink" title="移除应用较多，还剩下这些"></a>移除应用较多，还剩下这些</h3><p><img src="https://tva2.sinaimg.cn/large/0073r2KBly1h4aeunattmj30c90n9jt0.jpg" alt="https://tva2.sinaimg.cn/large/0073r2KBly1h4aeunattmj30c90n9jt0.jpg"><br><img src="https://tvax1.sinaimg.cn/large/0073r2KBly1h4aeungyk6j30b90hsmyo.jpg" alt="0073r2KBly1h4aeungyk6j30b90hsmyo.jpg"><br><img src="https://tva2.sinaimg.cn/large/0073r2KBly1h4aeunmhdtj30ax0huwfq.jpg" alt="0073r2KBly1h4aeunmhdtj30ax0huwfq.jpg"><br><img src="https://tvax3.sinaimg.cn/large/0073r2KBly1h4aewso9zbj30z10j4akf.jpg" alt="0073r2KBly1h4aewso9zbj30z10j4akf.jpg"></p><h3 id="看，正常的截图快捷键和Win-V剪切板历史"><a href="#看，正常的截图快捷键和Win-V剪切板历史" class="headerlink" title="看，正常的截图快捷键和Win+V剪切板历史"></a>看，正常的截图快捷键和Win+V剪切板历史</h3><p><img src="https://tvax2.sinaimg.cn/large/0073r2KBly1h4aeunq6wbj30z10j4tct.jpg" alt="0073r2KBly1h4aeunq6wbj30z10j4tct.jpg"></p><h3 id="优化调整："><a href="#优化调整：" class="headerlink" title="优化调整："></a>优化调整：</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">禁用 Microsoft 用于 Windows 更新保留的存储空间</span><br><span class="line">仅当驱动未安装时Windows 更新自动更新驱动</span><br><span class="line">禁用自动下载并安装第三方应用</span><br><span class="line">禁用自动执行 Windows 升级，将Windows 自动更新调整为手动更新，排除驱动程序，排除恶意软件删除工具</span><br><span class="line">禁用 Windows 防火墙</span><br><span class="line">禁用运行监视器、错误报告服务、远程协助、远程修改注册表、程序兼容性助手服务、&quot;Windows 跟踪应用启动&quot;等一系列信息收集服务</span><br><span class="line">关闭MPO，防止GPU拖前台后腿</span><br><span class="line">注册表和更新补丁携手帮扶打印机</span><br><span class="line">注册表法关闭驱动签名验证</span><br><span class="line">禁用超级预读取服务</span><br><span class="line">微软拼音默认为英语输入</span><br><span class="line">禁止应用&quot;后台运行&quot;</span><br><span class="line">关闭&quot;写入调试信息&quot;、&quot;写入系统日志&quot;、禁止&quot;C盘创建DumpStack&quot;文件</span><br><span class="line">关闭打开程序&quot;安全警告&quot;</span><br><span class="line">关闭存储感知</span><br><span class="line">关闭Store&quot;自动更新&quot;</span><br><span class="line">打开剪贴板历史记录</span><br><span class="line">打开自动登录选项</span><br><span class="line">APPX开发人员模式</span><br><span class="line">文件打开方式添加“记事本”</span><br><span class="line">MSI 文件增加“解包”菜单</span><br><span class="line">HTML 右键增加“编辑”菜单</span><br><span class="line">Shift 右键添加“复制路径”菜单</span><br><span class="line">Shift 右键添加&quot;隐藏&quot;功能</span><br><span class="line">未知文件添加&quot;用记事本打开&quot;菜单(Item0，下次改成Open with Notepad)</span><br><span class="line">Shift 右键添加&quot;在此处打开命令窗口&quot;</span><br></pre></td></tr></table></figure><h3 id="精简列表"><a href="#精简列表" class="headerlink" title="精简列表"></a>精简列表</h3><ol><li>精简并禁用 Windows Defender、移除安全中心、关闭”启用安全中心”通知、安全中心监视服务、SmartScreen、注册表开除SmartScreen进程</li><li>干翻遥测（Asimov）、”客户体验改善计划（CEIP）”、”体验共享”等相关隐私收集（如果觉得过分或者不够完美可以使用wpd.app和dl5.oo-software.com&#x2F;files&#x2F;ooshutup10&#x2F;OOSU10.exe调整）</li><li>删除系统基本无用菜单</li><li>传统记事本顶替UWP记事本</li><li>清理Adobe Flash组件残留</li><li>游戏浏览器</li><li>语音识别和小娜、轻松访问相关组件</li><li>Windows TIFF IFilter（OCR）</li><li>Windows 系统评估工具(WinSAT)</li><li>Windows 邮件</li><li>WiFi 感知</li><li>Windows 错误报告</li><li>Windows 会员中心</li><li>OneDrive 桌面客户端</li><li>轻松传送</li><li>安全中心</li><li>指定访问锁定应用 - Windows 展台模式</li><li>Async Text 服务 - 人脉和地图应用的消息扩展</li><li>CBSPreview - 相机条形码扫描仪应用</li><li>Content Delivery Manager - 自动安装赞助或推广的应用、建议和广告</li><li>ECApp - 用于眼球运动控制的 Modern UI 对话框应用</li><li>Edge 经典浏览器</li><li>Edge 开发者工具客户端</li><li>地图控件</li><li>内容传递管理器</li><li>OOBE Network Captive Portal -强制网络门户</li><li>OOBE 网络连接流</li><li>People Experience 主机 - 人脉栏（People Hub）</li><li>零售演示内容</li><li>Secure Assessment Browser（Take Test 应用）</li><li>Skype ORTC</li><li>Webcam Experience</li><li>Windows 混合现实</li><li>Windows 阅读器 (PDF)</li><li>3D 查看器</li><li>Advertising Xaml广告商</li><li>闹钟和时钟</li><li>相机应用</li><li>反馈中心</li><li>电影和电视</li><li>获取帮助</li><li>Groove 音乐</li><li>地图应用</li><li>消息应用</li><li>Microsoft Pay</li><li>移动套餐</li><li>我的 Office</li><li>混合现实门户</li><li>OneNote</li><li>手机连接</li><li>照片</li><li>画图 3D</li><li>Print 3D</li><li>Services Store Engagement</li><li>Windows 应用商店应用</li><li>应用商店体验主机</li><li>Skype</li><li>便笺</li><li>Solitaire Collection</li><li>人脉</li><li>使用技巧</li><li>录音机应用</li><li>天气应用</li><li>Xbox相关（核心保留，可正常使用游戏优化等，可恢复。下方恢复包来自对不忘初心大神的分流：OneDrive国际版：liuxiane5-my.sharepoint.com&#x2F;:u:&#x2F;g&#x2F;personal&#x2F;zxgu183_e5_liuxianl_com&#x2F;ETC-bsfQU9VLhJgmB6jRUWEB4Obu13tM_9ul5LWNoX7kXg?e&#x3D;2OiSkU分秒帧：mdl.ink&#x2F;El6MmP原贴：bbs.pcbeta.com&#x2F;viewthread-1928535-1-1.html）<br><em>NTLite见配方</em><br>优化主要是注册表<br>DISM++自己看</li></ol><p>提供<strong>ISO镜像(带install.wim)、ESD镜像、ISO无人值守Administrator版</strong></p><h3 id="官方Boot安装截图"><a href="#官方Boot安装截图" class="headerlink" title="官方Boot安装截图"></a>官方Boot安装截图</h3><p><img src="https://tvax1.sinaimg.cn/large/0073r2KBly1h4af9e6dlkj30sg0lcgoa.jpg" alt="0073r2KBly1h4af9e6dlkj30sg0lcgoa.jpg"><br><img src="https://tvax3.sinaimg.cn/large/0073r2KBly1h4af9ea896j30sg0lc0v8.jpg" alt="0073r2KBly1h4af9ea896j30sg0lc0v8.jpg"></p><h3 id="咱的WinRE一部分"><a href="#咱的WinRE一部分" class="headerlink" title="咱的WinRE一部分"></a>咱的WinRE一部分</h3><p><img src="https://tva3.sinaimg.cn/large/0073r2KBly1h4aemmurjaj30yk0oj0y2.jpg" alt="0073r2KBly1h4aemmurjaj30yk0oj0y2.jpg"><br>母盘来自<a href="https://i.pcbeta.com/space-uid-4818893.html">Hanamaru</a></p><blockquote><p><a href="https://bbs.pcbeta.com/viewthread-1938524-1-1.html">https://bbs.pcbeta.com/viewthread-1938524-1-1.html</a></p></blockquote>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;近来研究了下Win10的各个版本，觉得这三个版本比较有</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="系统工具" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="Windows镜像" scheme="https://www.nite07.com/tags/Windows%E9%95%9C%E5%83%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>Adobe 2022 PC全家桶 (SP版/大师版) 学习版</title>
@@ -86,6 +123,43 @@
     <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
     
     <category term="CoolUtils" scheme="https://www.nite07.com/tags/CoolUtils/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BurnAware Professional 15.7 学习版</title>
+    <link href="https://www.nite07.com/burnaware/"/>
+    <id>https://www.nite07.com/burnaware/</id>
+    <published>2022-01-12T13:57:16.000Z</published>
+    <updated>2022-07-21T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>Pro比Prem功能多</p></blockquote><p>BurnAware是一款轻量级的，功能强大，简单易用的光盘刻录工具。支持CD&#x2F;DVD&#x2F;蓝光&#x2F;HD-DVD光盘，同时适用于高级用户和初级用户。支持几乎所有的光存储媒体，具备良好广泛的硬件兼容性，包括：CD-R&#x2F;RW, DVD-R&#x2F;RW, DVD+R&#x2F;RW, BD-R&#x2F;RE, HD-DVD-R&#x2F;RW和DVD-RAM。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/BurnAware/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/BurnAware-Professional_15.7.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -197,43 +271,6 @@
     <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
     
     <category term="GoodSync" scheme="https://www.nite07.com/tags/GoodSync/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BurnAware Professional 15.7 学习版</title>
-    <link href="https://www.nite07.com/burnaware/"/>
-    <id>https://www.nite07.com/burnaware/</id>
-    <published>2022-01-12T13:57:16.000Z</published>
-    <updated>2022-07-21T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>Pro比Prem功能多</p></blockquote><p>BurnAware是一款轻量级的，功能强大，简单易用的光盘刻录工具。支持CD&#x2F;DVD&#x2F;蓝光&#x2F;HD-DVD光盘，同时适用于高级用户和初级用户。支持几乎所有的光存储媒体，具备良好广泛的硬件兼容性，包括：CD-R&#x2F;RW, DVD-R&#x2F;RW, DVD+R&#x2F;RW, BD-R&#x2F;RE, HD-DVD-R&#x2F;RW和DVD-RAM。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/BurnAware/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/BurnAware-Professional_15.7.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -867,6 +904,41 @@
   </entry>
   
   <entry>
+    <title>Ashampoo Burning Studio 23.0.8 学习版</title>
+    <link href="https://www.nite07.com/ashampoobs/"/>
+    <id>https://www.nite07.com/ashampoobs/</id>
+    <published>2022-04-06T09:02:27.000Z</published>
+    <updated>2022-07-19T13:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Ashampoo 是德国的一家公司，公司成立于1999年，国人戏称其译名为“阿香婆”，这家公司的产品线很长，出的软件五花八门，至少也有20多款软件，包括了杀毒杀马的、防火墙的、刻录的、截图的、办公的、系统优化的、系统卸载清理、磁盘整理的、图片处理的、网络视频下载的、视频转换、音乐播放的、文件加密的等等。软件界面一般都比较华丽，但其软件并非华而不实，有很多软件越加受到国人的喜爱。<br>和 Nero 相比，Ashampoo 出品的刻录工具 Ashampoo Burning Studio 优势就凸显了，体积仅有 Nero 的五分之一，功能依然强大；虽然 Nero 在用户们的呼吁下推出了一款不到 40MB 的精简版 Nero Lite，毕竟是以牺牲软件特性功能为代价，并不能满足那些要求苛刻的用户，而这时 Ashampoo Burning Studio 就成为一个不错的选择。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Ashampoo-Burning-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://file.nite07.com/cn/Ashampoo-Burning-Studio_23.0.8.7z">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://file.nite07.com/cn/ashampoo_burning_studio_23.0.6.1.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="Ashampoo Burning Studio" scheme="https://www.nite07.com/tags/Ashampoo-Burning-Studio/"/>
+    
+  </entry>
+  
+  <entry>
     <title>百度网盘 7.17.6.2 PC绿色精简版</title>
     <link href="https://www.nite07.com/baidunetdisk/"/>
     <id>https://www.nite07.com/baidunetdisk/</id>
@@ -900,41 +972,6 @@
     <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
     
     <category term="百度网盘" scheme="https://www.nite07.com/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ashampoo Burning Studio 23.0.8 学习版</title>
-    <link href="https://www.nite07.com/ashampoobs/"/>
-    <id>https://www.nite07.com/ashampoobs/</id>
-    <published>2022-04-06T09:02:27.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Ashampoo 是德国的一家公司，公司成立于1999年，国人戏称其译名为“阿香婆”，这家公司的产品线很长，出的软件五花八门，至少也有20多款软件，包括了杀毒杀马的、防火墙的、刻录的、截图的、办公的、系统优化的、系统卸载清理、磁盘整理的、图片处理的、网络视频下载的、视频转换、音乐播放的、文件加密的等等。软件界面一般都比较华丽，但其软件并非华而不实，有很多软件越加受到国人的喜爱。<br>和 Nero 相比，Ashampoo 出品的刻录工具 Ashampoo Burning Studio 优势就凸显了，体积仅有 Nero 的五分之一，功能依然强大；虽然 Nero 在用户们的呼吁下推出了一款不到 40MB 的精简版 Nero Lite，毕竟是以牺牲软件特性功能为代价，并不能满足那些要求苛刻的用户，而这时 Ashampoo Burning Studio 就成为一个不错的选择。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Ashampoo-Burning-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://file.nite07.com/cn/Ashampoo-Burning-Studio_23.0.8.7z">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://file.nite07.com/cn/ashampoo_burning_studio_23.0.6.1.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="Ashampoo Burning Studio" scheme="https://www.nite07.com/tags/Ashampoo-Burning-Studio/"/>
     
   </entry>
   
@@ -1081,43 +1118,6 @@
     <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
     
     <category term="Smart Launcher" scheme="https://www.nite07.com/tags/Smart-Launcher/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>XMind 1.9.7 安卓学习版</title>
-    <link href="https://www.nite07.com/xmindandroid/"/>
-    <id>https://www.nite07.com/xmindandroid/</id>
-    <published>2021-09-19T01:50:26.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>「XMind」是一款让你专注思维，捕捉每一个灵感瞬间的 App。每当你有一个想法，「XMind」帮你专注于它的扩展延伸和梳理，融合艺术与创造力，让思维清晰可见。你可以创建 workflow，接下来心无旁骛投入工作流程；以灵感为中心，在无限的脑图幕布上延伸想法；随手记录点滴灵感、待办清单、会议记录或是项目规划，尽情享受逻辑思维。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/XMind%E5%AE%89%E5%8D%93/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/XMind_1.9.7.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="绘图建模" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E7%BB%98%E5%9B%BE%E5%BB%BA%E6%A8%A1/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="xmind" scheme="https://www.nite07.com/tags/xmind/"/>
     
   </entry>
   
