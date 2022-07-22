@@ -6,7 +6,7 @@
   <link href="https://www.nite07.com/atom.xml" rel="self"/>
   
   <link href="https://www.nite07.com/"/>
-  <updated>2022-07-21T11:12:11.000Z</updated>
+  <updated>2022-07-22T03:00:00.000Z</updated>
   <id>https://www.nite07.com/</id>
   
   <author>
@@ -15,6 +15,559 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>μTorrent(uTorrent) Pro 6.9.5 安卓学习版</title>
+    <link href="https://www.nite07.com/utorrent/"/>
+    <id>https://www.nite07.com/utorrent/</id>
+    <published>2021-10-04T01:21:41.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>μTorrent(由于μTorrent不便于书写常作uTorrent) 是一个小巧强劲，全功能，用C++编写，支持Windows、Mac OS X和GNU&#x2F;Linux平台的免费BitTorrent客户端。支持UPnP，支持流行的 BT 扩展协议，磁力链接(Magnet Links)，IPv6，用户来源交换，DHT和uTP，以及RSS下载器等丰富特性。<br>μTorrent具有许多自定义选项，比如多任务同时下载，设置文件下载优先级，根据计划任务调整占用的带宽，全局&#x2F;单个任务的速度限制，快速断点续传机制等等。在界面上，μTorrent直观易用，并支持超过54种语言。由于其界面简洁，性能和稳定性出众广受好评。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/uTorrent%E5%AE%89%E5%8D%93/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/%C2%B5Torrent_6.9.5.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="上传下载" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/"/>
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="英文" scheme="https://www.nite07.com/tags/%E8%8B%B1%E6%96%87/"/>
+    
+    <category term="μtorrent" scheme="https://www.nite07.com/tags/%CE%BCtorrent/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>R-Studio Network 9.1 Build 191026 学习版</title>
+    <link href="https://www.nite07.com/rstudio/"/>
+    <id>https://www.nite07.com/rstudio/</id>
+    <published>2022-02-06T04:55:18.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>R-Studio 是最全面的数据恢复解决方案，它由新颖独特的数据恢复技术推动，可以从 NTFS、NTFS5、ReFS、FAT12&#x2F;16&#x2F;32、exFAT、HFS&#x2F;HFS+（Macintosh）、UFS1&#x2F;UFS2 的大端与小端变体（FreeBSD&#x2F;OpenBSD&#x2F;NetBSD&#x2F;Solaris）和 Ext2&#x2F;Ext3&#x2F;Ext4 FS（Linux）分区恢复文件。R-Studio 也可以为严重损坏或未知文件系统使用原始文件恢复（扫描已知文件类型）。即使这些分区被格式化、损坏或删除，它也可以作用于本地磁盘和网络磁盘。灵活的参数设置使您可以绝对控制数据恢复。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/R-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/R-Studio_9.1-Build-191026-Network.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="备份还原" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="R-Studio" scheme="https://www.nite07.com/tags/R-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DaVinci Resolve Studio(达芬奇) 18.0.0.0036 学习版</title>
+    <link href="https://www.nite07.com/davinci/"/>
+    <id>https://www.nite07.com/davinci/</id>
+    <published>2021-10-09T03:50:31.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>达芬奇调色软件DaVinci Resolve Studio 16中文版 是Blackmagic Design 旗下一款著名的调色软件，也是世界上唯一一款将专业8K编辑，色彩校正，视觉效果和音频后期制作功能集于一身影视后期处理软件，它能随意的在编辑，颜色，效果和音频之间即时切换，具有简化的界面和革命性的新工具，可帮助您比以往更快地完成工作。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/DaVinci-Resolve-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Blackmagic-Design-DaVinci-Resolve-Studio_18.0.0.0036.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="DaVinci" scheme="https://www.nite07.com/tags/DaVinci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>InShot 1.843.1363 学习版</title>
+    <link href="https://www.nite07.com/inshot/"/>
+    <id>https://www.nite07.com/inshot/</id>
+    <published>2021-12-25T11:16:44.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>InShot是一个功能强大的视频制作和视频编辑App，简单易用。 InShot可以轻松将长视频剪切，修剪和拆分为小视频。 模糊工具还可以帮助您设置视频和照片为模糊背景。 使用InShot，您可以轻松地在视频中添加音乐，文本和贴纸。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/InShot/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/InShot_1.843.1363.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="InShot" scheme="https://www.nite07.com/tags/InShot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Photo Supreme 7.3.0.4438 便携版</title>
+    <link href="https://www.nite07.com/photosupreme/"/>
+    <id>https://www.nite07.com/photosupreme/</id>
+    <published>2021-12-10T06:36:18.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Photo Supreme是一款流行有趣的图片管理应用程序，用户可以使用Photo Supreme收集和分类处理自己所有的图片，这样以后再找图片就能够很方便地找到了。Photo Supreme的高级功能能够限制图像访问者，是数码相机的辅助程序。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/PhotoSupreme/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Photo-Supreme_7.3.0.4438_Portable.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="英文" scheme="https://www.nite07.com/tags/%E8%8B%B1%E6%96%87/"/>
+    
+    <category term="Photo Supreme" scheme="https://www.nite07.com/tags/Photo-Supreme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>傲软抠图 1.6.3 学习版</title>
+    <link href="https://www.nite07.com/aoruankoutu/"/>
+    <id>https://www.nite07.com/aoruankoutu/</id>
+    <published>2021-09-23T08:36:50.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>由<strong>耗子</strong>修改</p></blockquote><p>傲软抠图是一款AI智能抠图软件，3秒内完成自动抠图，还可以使用软件内编辑工具继续创作图片。无论是个人照片、电商图片或营销设计图，有了AI智能的帮助，图片创作将变得简单、省时、有趣。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E5%82%B2%E8%BD%AF%E6%8A%A0%E5%9B%BE/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/%E5%82%B2%E8%BD%AF%E6%8A%A0%E5%9B%BE_1.6.3.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="傲软抠图" scheme="https://www.nite07.com/tags/%E5%82%B2%E8%BD%AF%E6%8A%A0%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>番茄免费小说 5.4.1.32 去广告版</title>
+    <link href="https://www.nite07.com/fqmfxs/"/>
+    <id>https://www.nite07.com/fqmfxs/</id>
+    <published>2021-11-23T13:38:43.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>番茄小说是一款免费网文阅读APP，采用“广告+免费”的模式，为读者提供免费的精彩网文，提供畅快的阅读体验。 支持在线阅读、离线下载、兴趣推荐、视频推书、有声书、阅读换金币等多项功能。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E7%95%AA%E8%8C%84%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/%E7%95%AA%E8%8C%84%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4_5.4.1.32.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="小说阅读" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="番茄免费小说" scheme="https://www.nite07.com/tags/%E7%95%AA%E8%8C%84%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GOM Player Plus 2.3.77.5342 学习版</title>
+    <link href="https://www.nite07.com/gomplayer/"/>
+    <id>https://www.nite07.com/gomplayer/</id>
+    <published>2021-11-19T08:23:38.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>GOM Player，Windows 平台高级本地视频播放器，这款韩国多媒体影音播放器，不仅韩国在全球也被广泛使用，内置强大的解码器&#x2F;滤镜过滤器、字幕功能、支持360度VR全景视频，UHD&#x2F;4K超高清视频流畅播放。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/GOM-Player/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/GOM-Player-Plus_2.3.77.5342.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="影音视听" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%BD%B1%E9%9F%B3%E8%A7%86%E5%90%AC/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="GOM Player" scheme="https://www.nite07.com/tags/GOM-Player/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MyRadio 1.1.22.0718 学习版</title>
+    <link href="https://www.nite07.com/myradio/"/>
+    <id>https://www.nite07.com/myradio/</id>
+    <published>2021-11-17T11:37:38.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>MyRadio是香港一个网上电台，由资深传媒人黄毓民及梁锦祥于2007年创办。<br>MyRadio曾于2008年与网站香港人网合并。2010年9月6日，与香港人网分拆，重新独立运作。MyRadio与同由黄毓民创办的普罗政治学苑合作紧密，是其网上平台。<br>MyRadio每天提供6.5小时多元化广播节目，内容包括资讯、政治、娱乐与文艺等。节目也透过其网站“myradio.hk”作网上即时广播，亦提供网上重温节目服务。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/MyRadio/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/MyRadio_1.1.22.0718.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="影音视听" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%BD%B1%E9%9F%B3%E8%A7%86%E5%90%AC/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="MyRadio" scheme="https://www.nite07.com/tags/MyRadio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OfficeSuite 6.90.46770 PC学习版</title>
+    <link href="https://www.nite07.com/officesuitepc/"/>
+    <id>https://www.nite07.com/officesuitepc/</id>
+    <published>2022-07-13T13:01:21.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Officesuite 是由 MobiSystems 开发的跨平台办公套件它适用于 Android、 iOS 和微软 Windows (PC)，并增加了兼容常用微软 Office 文件格式的大量 PDF 功能。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/OfficeSuitePC/2.jpg"><br><img src="/img/OfficeSuitePC/3.jpg"><br><img src="/img/OfficeSuitePC/4.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/OfficeSuite-Premium_6.90.46770.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="效率办公" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="OfficeSuite" scheme="https://www.nite07.com/tags/OfficeSuite/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PDF Extra 9.3.1536 学习版</title>
+    <link href="https://www.nite07.com/pdfextra/"/>
+    <id>https://www.nite07.com/pdfextra/</id>
+    <published>2022-01-12T13:58:12.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>PDF Extra 是一款功能强大的专业pdf办公软件，使用该软件能够帮助用户轻松快速的读取pdf文件，且它具备所有的pdf编辑功能，例如查看、注释、填充、签名、保护、扫描到PDF、导出到Word &#x2F; Excel以及组织pdf页面、添加和修改文本以及图像等，此外，用户还能对pdf文件进行选择、插入、移除等操作，让用户轻轻松松就能修改pdf文件内容。另外，用户还在通过软件对pdf文件内容进行字体、颜色、字体大小、行距等设置，并且它还允许你使用数字签名对文档进行签名，或使用免费的绘图工具来绘制自己的文档，可谓是用户编辑pdf文档的最佳工具。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/PDF-Extra/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/PDF-Extra_9.3.1536.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="效率办公" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="效率办公" scheme="https://www.nite07.com/tags/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Squid笔记 4.0.1 学习版</title>
+    <link href="https://www.nite07.com/squidnote/"/>
+    <id>https://www.nite07.com/squidnote/</id>
+    <published>2021-09-28T07:21:25.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Squid是一款好用的笔记软件，让你用手机也可以有和笔记本一样的真实手写记录体验，让你可以更好的记笔记。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Squid%E7%AC%94%E8%AE%B0/2.png"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Squid_4.0.1.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="效率办公" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="Squid笔记" scheme="https://www.nite07.com/tags/Squid%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Piriform(CCleaner)系列软件 PC学习版</title>
+    <link href="https://www.nite07.com/ccleaner/"/>
+    <id>https://www.nite07.com/ccleaner/</id>
+    <published>2021-08-09T06:24:38.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>CCleaner可从Windows及其他软件（如Firefox、Opera、Internet Explorer、QuickTime、Windows Media Player等）中清理不必要的垃圾文件。该软件亦可找出及修正Windows注册表中的问题包括不再使用的扩展名及程序路径的问题等。另外它亦可帮助用户移除软件、管理系统还原点及修改系统引导时开启的程序。<br>它具有删除各种软件，临时文件和不必要的注册表的历史记录的功能。 它将检查系统上是否安装了兼容软件，并且仅显示已安装软件的删除选项。 相应的软件与多种语言的流行软件兼容。<br>它是用于删除不必要的文件和注册表的最受欢迎的软件之一，并且根据官方网站的消息，它已被下载超过25亿次。 它还支持多种语言，并支持在包括中文在内的30多种语言环境中使用。</p><p>Defraggler是一款轻量级的磁盘碎片整理软件，它支持NTFS和FAT32文件系统。 虽然容量不到1MB，但是功能和效率却一点不差。 它可以快速高效的整理某个磁盘、文件夹甚至一个文件。</p><p>Recuva是一个免费的Windows 平台下的文件恢复工具，它可以用来恢复那些被误删除的任意格式的文件，能直接恢复硬盘、闪盘、存储卡（如SD 卡，MMC 卡等等）中的文件，只要没有被重复写入数据，无论格式化还是删除均可直接恢复，支持FAT12，FAT16，FAT32，NTFS，exFat 文件系统。</p><p>Speccy就是制作CCleaner的公司Piriform所开发的第四款软件，它除了不能进行测试之外，作用与Everest和Sisoftware Sandra的PC硬件信息搜集功能基本相同，甚至还提供了后两者所提供不了的功能。通过它，可以准确识别您的电脑硬件配置详细信息，让您对爱机做到心中有数。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/CCleaner/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><table><thead><tr><th>文件</th><th>更新时间</th></tr></thead><tbody><tr><td><a href="https://file.nite07.com/cn/CCleaner-Professional_6.02.9938.7z">CCleaner Pro 6.02.9938 安装版</a></td><td>2022-07-21</td></tr><tr><td><a href="https://file.nite07.com/cn/Defraggler-Professional_2.22.33.995.7z">Defraggler Pro 2.22.33.995 安装版</a></td><td>2022-06-23</td></tr><tr><td><a href="https://file.nite07.com/cn/Defraggler-Professional_2.22.33.995_Portable.7z">Defraggler Pro 2.22.33.995 便携版</a></td><td>2022-07-22</td></tr><tr><td><a href="https://file.nite07.com/cn/Recuva-Professional_1.53.0.2083.7z">Recuva Pro 1.53.0.2083 安装版</a></td><td>2022-07-21</td></tr><tr><td><a href="https://file.nite07.com/cn/Recuva-Professional_1.53.0.2083_Portable.7z">Recuva Pro 1.53.0.2083 便携版</a></td><td>2022-07-22</td></tr><tr><td><a href="https://file.nite07.com/cn/Speccy-Professional_1.32.0.803.7z">Speccy Pro 1.32.0.803 安装版</a></td><td>2022-07-21</td></tr><tr><td><a href="https://file.nite07.com/cn/Speccy-Professional_1.32.0.803_Portable.7z">Speccy Pro 1.32.0.803 便携版</a></td><td>2022-07-22</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="清理维护" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%B8%85%E7%90%86%E7%BB%B4%E6%8A%A4/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="ccleaner" scheme="https://www.nite07.com/tags/ccleaner/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Smart Launcher 6.1.010 学习版</title>
+    <link href="https://www.nite07.com/smartlauncher/"/>
+    <id>https://www.nite07.com/smartlauncher/</id>
+    <published>2021-12-25T17:17:24.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Smart Launcher 提供专注于效率和自定义的全新 Android 体验。<br>一个新的简单主屏幕，显示重要信息。您所有的应用程序都按类别分类。更快、更轻松地执行日常任务所需的一切。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/SmartLauncher/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Smart-Launcher_6.1-build-010.apk">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
+    
+    <category term="系统工具" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
+    
+    <category term="Smart Launcher" scheme="https://www.nite07.com/tags/Smart-Launcher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dbForge Studio 系列软件学习版</title>
+    <link href="https://www.nite07.com/dsfss/"/>
+    <id>https://www.nite07.com/dsfss/</id>
+    <published>2022-03-13T05:17:12.000Z</published>
+    <updated>2022-07-22T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>dbForge Studioor 是一个在Windows平台被广泛使用的数据库管理客户端</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/dbForge-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><table><thead><tr><th>文件名</th><th>下载</th><th>更新时间</th></tr></thead><tbody><tr><td>dbForge Studio 2022 for SQL Server Enterprise Edition 6.2.52</td><td><a href="https://file.nite07.com/cn/dbForge-Studio-2022-for-SQL-Server-Enterprise-Edition_6.2.52.7z">下载</a></td><td>2022-07-22</td></tr><tr><td>dbForge Studio 2022 for Oracle Enterprise 4.4.64</td><td><a href="https://file.nite07.com/cn/dbForge-Studio-2022-for-Oracle-Enterprise_4.4.64.7z">下载</a></td><td>2022-07-22</td></tr><tr><td>dbForge Studio for PostgreSQL 2.3.278</td><td><a href="https://file.nite07.com/cn/dbForge-Studio-for-PostgreSQL_2.3.278.7z">下载</a></td><td>2022-07-22</td></tr><tr><td>dbForge Studio 2020 for MySQL Enterprise 9.0.897</td><td><a href="https://file.nite07.com/cn/dbForge-Studio-2020-for-MySQL-Enterprise_9.0.897.7z">下载</a></td><td>2022-07-22</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="编程开发" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="英文" scheme="https://www.nite07.com/tags/%E8%8B%B1%E6%96%87/"/>
+    
+    <category term="dbForge Studio" scheme="https://www.nite07.com/tags/dbForge-Studio/"/>
+    
+  </entry>
   
   <entry>
     <title>[涅槃秋凤][22H2]Win10.0.19045.1826酸菜极速三合一</title>
@@ -127,43 +680,6 @@
   </entry>
   
   <entry>
-    <title>BurnAware Professional 15.7 学习版</title>
-    <link href="https://www.nite07.com/burnaware/"/>
-    <id>https://www.nite07.com/burnaware/</id>
-    <published>2022-01-12T13:57:16.000Z</published>
-    <updated>2022-07-21T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>Pro比Prem功能多</p></blockquote><p>BurnAware是一款轻量级的，功能强大，简单易用的光盘刻录工具。支持CD&#x2F;DVD&#x2F;蓝光&#x2F;HD-DVD光盘，同时适用于高级用户和初级用户。支持几乎所有的光存储媒体，具备良好广泛的硬件兼容性，包括：CD-R&#x2F;RW, DVD-R&#x2F;RW, DVD+R&#x2F;RW, BD-R&#x2F;RE, HD-DVD-R&#x2F;RW和DVD-RAM。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/BurnAware/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/BurnAware-Professional_15.7.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Advanced Download Manager Pro(ADM) 14.0.10 学习版</title>
     <link href="https://www.nite07.com/adm/"/>
     <id>https://www.nite07.com/adm/</id>
@@ -271,6 +787,43 @@
     <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
     
     <category term="GoodSync" scheme="https://www.nite07.com/tags/GoodSync/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BurnAware Professional 15.7 学习版</title>
+    <link href="https://www.nite07.com/burnaware/"/>
+    <id>https://www.nite07.com/burnaware/</id>
+    <published>2022-01-12T13:57:16.000Z</published>
+    <updated>2022-07-21T03:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>Pro比Prem功能多</p></blockquote><p>BurnAware是一款轻量级的，功能强大，简单易用的光盘刻录工具。支持CD&#x2F;DVD&#x2F;蓝光&#x2F;HD-DVD光盘，同时适用于高级用户和初级用户。支持几乎所有的光存储媒体，具备良好广泛的硬件兼容性，包括：CD-R&#x2F;RW, DVD-R&#x2F;RW, DVD+R&#x2F;RW, BD-R&#x2F;RE, HD-DVD-R&#x2F;RW和DVD-RAM。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/BurnAware/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/BurnAware-Professional_15.7.7z">下载</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
+    
+    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
+    
+    
+    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
+    
+    <category term="系统工具" scheme="https://www.nite07.com/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -462,41 +1015,6 @@
   </entry>
   
   <entry>
-    <title>Piriform(CCleaner)系列软件 PC学习版</title>
-    <link href="https://www.nite07.com/ccleaner/"/>
-    <id>https://www.nite07.com/ccleaner/</id>
-    <published>2021-08-09T06:24:38.000Z</published>
-    <updated>2022-07-21T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>CCleaner可从Windows及其他软件（如Firefox、Opera、Internet Explorer、QuickTime、Windows Media Player等）中清理不必要的垃圾文件。该软件亦可找出及修正Windows注册表中的问题包括不再使用的扩展名及程序路径的问题等。另外它亦可帮助用户移除软件、管理系统还原点及修改系统引导时开启的程序。<br>它具有删除各种软件，临时文件和不必要的注册表的历史记录的功能。 它将检查系统上是否安装了兼容软件，并且仅显示已安装软件的删除选项。 相应的软件与多种语言的流行软件兼容。<br>它是用于删除不必要的文件和注册表的最受欢迎的软件之一，并且根据官方网站的消息，它已被下载超过25亿次。 它还支持多种语言，并支持在包括中文在内的30多种语言环境中使用。</p><p>Defraggler是一款轻量级的磁盘碎片整理软件，它支持NTFS和FAT32文件系统。 虽然容量不到1MB，但是功能和效率却一点不差。 它可以快速高效的整理某个磁盘、文件夹甚至一个文件。</p><p>Recuva是一个免费的Windows 平台下的文件恢复工具，它可以用来恢复那些被误删除的任意格式的文件，能直接恢复硬盘、闪盘、存储卡（如SD 卡，MMC 卡等等）中的文件，只要没有被重复写入数据，无论格式化还是删除均可直接恢复，支持FAT12，FAT16，FAT32，NTFS，exFat 文件系统。</p><p>Speccy就是制作CCleaner的公司Piriform所开发的第四款软件，它除了不能进行测试之外，作用与Everest和Sisoftware Sandra的PC硬件信息搜集功能基本相同，甚至还提供了后两者所提供不了的功能。通过它，可以准确识别您的电脑硬件配置详细信息，让您对爱机做到心中有数。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/CCleaner/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><table><thead><tr><th>文件</th><th>更新时间</th></tr></thead><tbody><tr><td><a href="https://file.nite07.com/cn/CCleaner-Professional_6.02.9938.7z">CCleaner Pro 6.02.9938 安装版</a></td><td>2022-07-21</td></tr><tr><td><a href="https://file.nite07.com/cn/Defraggler-Professional_2.22.33.995.7z">Defraggler Pro 2.22.33.995 安装版</a></td><td>2022-06-23</td></tr><tr><td><a href="https://file.nite07.com/cn/Recuva-Professional_1.53.0.2083.7z">Recuva Pro 1.53.0.2083 安装版</a></td><td>2022-07-21</td></tr><tr><td><a href="https://file.nite07.com/cn/Speccy-Professional_1.32.0.803.7z">Speccy Pro 1.32.0.803 安装版</a></td><td>2022-07-21</td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="清理维护" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%B8%85%E7%90%86%E7%BB%B4%E6%8A%A4/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="ccleaner" scheme="https://www.nite07.com/tags/ccleaner/"/>
-    
-  </entry>
-  
-  <entry>
     <title>安卓清理君 3.3.6 学习版</title>
     <link href="https://www.nite07.com/azqlj/"/>
     <id>https://www.nite07.com/azqlj/</id>
@@ -604,520 +1122,6 @@
     <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
     
     <category term="FaceLab" scheme="https://www.nite07.com/tags/FaceLab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CyberLink PC系列软件 学习版</title>
-    <link href="https://www.nite07.com/cyberlink/"/>
-    <id>https://www.nite07.com/cyberlink/</id>
-    <published>2022-05-24T02:54:09.000Z</published>
-    <updated>2022-07-20T03:00:09.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h2 id="CyberLink-ActionDirector-Ultra"><a href="#CyberLink-ActionDirector-Ultra" class="headerlink" title="CyberLink ActionDirector Ultra"></a>CyberLink ActionDirector Ultra</h2><p>CyberLink ActionDirector Ultra，是专为运动摄影玩家量身打造的视频创作软件。CyberLink ActionDirector Ultra内建简易上手的操作接口，即使是创作新手也能轻松打造惊艳作品，让冒险时刻攀上颠峰！</p><h2 id="CyberLink-AudioDirector-Ultra"><a href="#CyberLink-AudioDirector-Ultra" class="headerlink" title="CyberLink AudioDirector Ultra"></a>CyberLink AudioDirector Ultra</h2><p>CyberLink AudioDirector Ultra 提供强大且直觉式的音效编辑、混音、还原及控制工具，让影片声动无限！卓越听觉表现在观影体验中扮演举足轻重角色，借由声音效果的加强，更能大幅提升创作成果的声光效果。AudioDirector 内建直觉式的声音调整工具，将音效编辑流程化繁为简，重现影音惊奇魅力。</p><h2 id="CyberLink-ColorDirector-Ultra"><a href="#CyberLink-ColorDirector-Ultra" class="headerlink" title="CyberLink ColorDirector Ultra"></a>CyberLink ColorDirector Ultra</h2><p>CyberLink ColorDirector Ultra 是台湾讯连科技开发的一款创意视频后期调色软件，协助您改善、增强视频色彩。通过一系列简单易用的工具，您可轻松地校正色彩、调整色调，甚至是针对视频中移动的物体进行局部性色彩调整，都可以通过 ColorDirector 完成。无论您是摄录像爱好者，或是对色彩充满热情，ColorDirector 都能协助您制作出令人惊艳的视频！ColorDirector 内置效果媲美专业却简易上手的视频调色工具，从初学者至进阶玩家皆适用。它让你的影像创作故事更令观众印象深刻，更容易引起内心无限共鸣。</p><h2 id="CyberLink-PowerDirector-Ultimate"><a href="#CyberLink-PowerDirector-Ultimate" class="headerlink" title="CyberLink PowerDirector Ultimate"></a>CyberLink PowerDirector Ultimate</h2><p>PowerDirector的中文名字译作威力导演，它由讯连科技（CyberLink）制作发行，是一套制作CD、DVD电影作品的完全解决方案，可让使用者进行采集、编辑、选单制作、及烧录电影作品于DVD、VCD、SVCD及MiniDVD光盘，轻松撷取影像及编辑影片，同时还拥有独特的光盘制作精灵，能快速简易地执行影片制作及烧录。</p><h2 id="CyberLink-PowerDVD-Ultra"><a href="#CyberLink-PowerDVD-Ultra" class="headerlink" title="CyberLink PowerDVD Ultra"></a>CyberLink PowerDVD Ultra</h2><p>PowerDVD 是一种软件光盘播放器，具有普通家用光盘播放机的所有功能和控件。 讯连科技PowerDVD 具有功能丰富的导航控件，可以为您提供互动式的、适合您个人需要的观看体验。</p><h2 id="CyberLink-PhotoDirector-Ultra"><a href="#CyberLink-PhotoDirector-Ultra" class="headerlink" title="CyberLink PhotoDirector Ultra"></a>CyberLink PhotoDirector Ultra</h2><p>CyberLink PhotoDirector Ultra ，来自讯联科技的一款专业易用的旗舰级图像处理软件，又叫讯联相片大师，功能等同于Photoshop与Lightroom这两个Adobe公司的图片处理工具的合体，可以为广大用户提供完整的影像编辑、图层调整与人物修饰等功能，结合人性化操作接口，任何用户均可快速上手使用，全新的相片大师11更是独家提供了AI工具、一键分布图层、一键对齐图层、图层贴靠或对齐、群组图层和过滤图层、自定义文字图层弯曲效果、调整图层、混合模式、动态影像、多重曝光、斜面和浮雕文字特效、全新功能与格式支持，还有多种扩充内容与特效等你来体验，此外讯联相片大师内置专业图层编辑工具让影像合成更加简单，用户可以轻松合成相片、文字与图形，还能使用混合模式，并搭配屏蔽与特效，玩出不同视觉风格，让创意极致发挥，综合性能非常突出</p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><table><thead><tr><th>文件名</th><th>更新时间</th><th>下载链接</th></tr></thead><tbody><tr><td>CyberLink ActionDirector Ultra 3.0.7425.0</td><td>-</td><td><a href="https://file.nite07.com/cn/CyberLink%20ActionDirector%20Ultra%203.0.7425.0%20x64.7z">下载</a></td></tr><tr><td>CyberLink AudioDirector Ultra 12.4.2906.0</td><td>-</td><td><a href="https://file.nite07.com/cn/CyberLink-AudioDirector-Ultra_12.4.2906.0.7z">下载</a></td></tr><tr><td>CyberLink ColorDirector Ultra 10.3.2703.0</td><td>-</td><td><a href="https://file.nite07.com/cn/CyberLink%20ColorDirector%20Ultra%2010.3.2703.0.7z">下载</a></td></tr><tr><td>CyberLink PowerDirector Ultimate 20.7.3108.0</td><td>2022-07-20</td><td><a href="https://file.nite07.com/cn/CyberLink-PowerDirector-Ultimate_20.7.3108.0.7z">下载</a></td></tr><tr><td>CyberLink PowerDVD Ultra 22.0.1915.62</td><td>2022-07-20</td><td><a href="https://file.nite07.com/cn/CyberLink-PowerDVD-Ultra_22.0.1915.62.7z">下载</a></td></tr><tr><td>CyberLink PhotoDirector Ultra 13.6.2926.0</td><td>2022-05-31</td><td><a href="https://file.nite07.com/cn/CyberLink-PhotoDirector-Ultra_13.6.2926.0.7z">下载</a></td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="CyberLink" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/CyberLink/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="CyberLink" scheme="https://www.nite07.com/tags/CyberLink/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Macrorit Partition Expert(Macrorit 分区专家) 6.1.0 汉化版</title>
-    <link href="https://www.nite07.com/macroritpe/"/>
-    <id>https://www.nite07.com/macroritpe/</id>
-    <published>2022-02-20T03:09:49.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>由<strong>th-sjy</strong>汉化</p></blockquote><p>Macrorit Partition Expert(硬盘分区工具)是一款强大的免费硬盘分区软件，支持mbr和GPT分区表，可以方便您进行磁盘的分区和数据转移，马上下载Macrorit Disk Partition Expert使用吧。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Macrorit-Partition-Expert/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Macrorit-Partition-Expert_6.1.0.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="备份还原" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="Macrorit Partition Expert" scheme="https://www.nite07.com/tags/Macrorit-Partition-Expert/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DVDFab 12.0.7.9 学习版</title>
-    <link href="https://www.nite07.com/dvdfab/"/>
-    <id>https://www.nite07.com/dvdfab/</id>
-    <published>2022-01-17T02:46:30.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>1.DVD 复制<br>DVDFab的最主要功能就是进行DVD的复制，目前有八种复制模式，可以支持全盘复制、压缩复制、选择章节复制、无菜单DVD视频复制。 　通过先进的编码技术、显卡加速、CPU硬件加速技术大大提高了DVD光盘的备份速度。主要应用与家庭DVD光盘，自制DV的可录和复制。<br>2.蓝光拷贝<br>DVDFab可以进行蓝光拷贝的工作，可以无损压缩，并对蓝光光盘进行拷贝。用户可以对输出盘类型进行定义，通过DVDFab用户可以轻松完成从蓝光BD50到BD25的复制工作。 　蓝光拷贝过程中采用了DVDFab团队自主研发的闪电解码技术，拷贝速度业界领先。蓝光拷贝功能不仅适用于普通的2D蓝光光盘也适用于3D蓝光盘。并且支持将3D蓝光BD50到BD25的复制。用户可以在普通的蓝光播放机上配合3D电视机进行3D蓝光播放。<br>3.DVD视频转换<br>强大的DVD视频转换功能可以让用户随时随地欣赏DVD视频和电影内容，目前DVDFab可以支持大多数主流播放设备和视频格式转换。 　自定义功能可以让用户轻松定义输出视频的参数，来满足不同的需求。<br>4.蓝光视频转换<br>蓝光视频转换功能给用户提供了高清视频解决方案。将蓝光光盘中的视频内容转换成常见视频格式，可以在电脑、PSP、PS3、iPad、iPhone等播放设备上进行播放。<br>5.2D到3D视频转换<br>业界第一款全功能的视频转换软件。可以将普通的DVD、蓝光及其他格式的视频转换成3D视频。输出视频可以在3D电视机等3D播放设备上进行播放。支持现在最新的裸眼3D移动播放设备给用户提供了最佳的裸眼3D视频方案和绝佳的用户体验。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/DVDFab/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/DVDFab_12.0.7.9.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="DVDFab" scheme="https://www.nite07.com/tags/DVDFab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VSCO Cam Pro X 279 学习版</title>
-    <link href="https://www.nite07.com/vsco/"/>
-    <id>https://www.nite07.com/vsco/</id>
-    <published>2021-09-28T14:03:09.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>VSCO是时下一款非常流行的社交类摄影App。VSCO支持的功能包括摄影App，语音通讯、相机拍照、照片编辑和照片分享等社交功能，通过社交与更多VSCO用户进行交流。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/VSCO/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/VSCO-X_279.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="VSCO" scheme="https://www.nite07.com/tags/VSCO/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博树(Busuu) 24.1.0.776 学习版</title>
-    <link href="https://www.nite07.com/busuu/"/>
-    <id>https://www.nite07.com/busuu/</id>
-    <published>2021-12-20T14:50:00.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>博树的宗旨是通过语言提升人们的能力。无论你学习语言是为了一份新工作、一段新恋情，还是单纯想要获得一项新技能，要想流利地说外语，博树都是你的理想起点。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Busuu/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Busuu-Premium_24.1.0.776.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="学习教育" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="学习教育" scheme="https://www.nite07.com/tags/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MacroDroid 5.26.3 学习版</title>
-    <link href="https://www.nite07.com/macrodroid/"/>
-    <id>https://www.nite07.com/macrodroid/</id>
-    <published>2022-01-06T16:06:47.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>MacroDroid  是一款安卓设备使用的自动化软件。它主要应用于安卓手机和平板等设备，能够简单、快速 自定义设置自动化脚本。通俗点讲，就是提供了完整的功能小模块，你可以调用这些小功能，完成你的自动化脚本编辑。所以，无需什么过硬的编程功底，就能完成手机自动化操作编辑~</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/MacroDroid/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/MacroDroid-Pro_5.26.3.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="效率办公" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="MacroDroid" scheme="https://www.nite07.com/tags/MacroDroid/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware Thinapp 2206 Build 20077476 学习版</title>
-    <link href="https://www.nite07.com/thinapp/"/>
-    <id>https://www.nite07.com/thinapp/</id>
-    <published>2021-12-03T13:30:50.000Z</published>
-    <updated>2022-07-20T03:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>VMware ThinApp是VMware产品，用于创建用于虚拟化的可移植应用程序。 VMware ThinApp是一种虚拟化应用程序，用于加速在虚拟机上部署应用程序。 除此之外，它还简化了多个虚拟机之间不同类型应用程序的迁移，而无需涉及任何第三方代理应用程序。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/VMware-Thinapp/2.jpg"> </p><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><ol><li>解压文件</li><li>运行 <strong>Setup.exe</strong> 安装</li><li>运行 <strong>Crack\keygen.exe</strong></li><li>点击 <strong>Generate</strong></li><li>将序列号粘贴到应用中激活</li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/VMware-ThinApp-Enterprise_2206-Build-20077476.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="模拟分身" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%A8%A1%E6%8B%9F%E5%88%86%E8%BA%AB/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="VMware Thinapp" scheme="https://www.nite07.com/tags/VMware-Thinapp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Solid Converter PDF 10.1.14122.6460 学习版</title>
-    <link href="https://www.nite07.com/solidconverter/"/>
-    <id>https://www.nite07.com/solidconverter/</id>
-    <published>2022-06-04T10:11:02.000Z</published>
-    <updated>2022-07-19T13:00:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Solid Converter PDF 是一款非常强大而且专业的PDF格式转换工具，可用它将PDF转成Word等常见类型文件或将Word文件转换成PDF格式文件。 Solid Converter PDF可以作为独立的转换工具或作为Microsoft Word和Acrobat (不是Reader)的插件来使用。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Solid-Converter/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Solid-Converter-PDF_10.1.14122.6460.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="效率办公" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="效率办公" scheme="https://www.nite07.com/tags/%E6%95%88%E7%8E%87%E5%8A%9E%E5%85%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ashampoo Burning Studio 23.0.8 学习版</title>
-    <link href="https://www.nite07.com/ashampoobs/"/>
-    <id>https://www.nite07.com/ashampoobs/</id>
-    <published>2022-04-06T09:02:27.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Ashampoo 是德国的一家公司，公司成立于1999年，国人戏称其译名为“阿香婆”，这家公司的产品线很长，出的软件五花八门，至少也有20多款软件，包括了杀毒杀马的、防火墙的、刻录的、截图的、办公的、系统优化的、系统卸载清理、磁盘整理的、图片处理的、网络视频下载的、视频转换、音乐播放的、文件加密的等等。软件界面一般都比较华丽，但其软件并非华而不实，有很多软件越加受到国人的喜爱。<br>和 Nero 相比，Ashampoo 出品的刻录工具 Ashampoo Burning Studio 优势就凸显了，体积仅有 Nero 的五分之一，功能依然强大；虽然 Nero 在用户们的呼吁下推出了一款不到 40MB 的精简版 Nero Lite，毕竟是以牺牲软件特性功能为代价，并不能满足那些要求苛刻的用户，而这时 Ashampoo Burning Studio 就成为一个不错的选择。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Ashampoo-Burning-Studio/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://file.nite07.com/cn/Ashampoo-Burning-Studio_23.0.8.7z">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://file.nite07.com/cn/ashampoo_burning_studio_23.0.6.1.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="光盘刻录" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95/"/>
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="Ashampoo Burning Studio" scheme="https://www.nite07.com/tags/Ashampoo-Burning-Studio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>百度网盘 7.17.6.2 PC绿色精简版</title>
-    <link href="https://www.nite07.com/baidunetdisk/"/>
-    <id>https://www.nite07.com/baidunetdisk/</id>
-    <published>2021-09-12T03:15:36.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>由<strong>423Down</strong>制作</p></blockquote><p>百度网盘（原百度云）是百度推出的一项云存储服务，已覆盖主流PC和手机操作系统，包含Web版、Windows版、Mac版、Android版、iPhone版和Windows Phone版。<br>用户将可以轻松将自己的文件上传到网盘上，并可跨终端随时随地查看和分享。2016年，百度网盘总用户数突破4亿。2016年10月11日，百度云改名为百度网盘，此后会更加专注发展个人存储、备份功能。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/BaiduNetdisk_7.17.6.2.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="上传下载" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="百度网盘" scheme="https://www.nite07.com/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FL Studio 20.8.4.2576(v5) 学习版</title>
-    <link href="https://www.nite07.com/shuiguo/"/>
-    <id>https://www.nite07.com/shuiguo/</id>
-    <published>2021-09-05T02:32:10.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误。" data-whm="密码校验失败。">  <script id="hbeData" type="hbeData" data-hmacdigest="e5a697d46e534d1957c14295229cda4b96dd5a80c470201245053f59f8765b02">881591b70732b8a89a68d58c58d0952eab6ecc4a8ea15acdbfe7ab68c88e4388f4f6343ee93360b733df7c9c177ad8948f48e5a0bdf55d0a4d211de2c19a12776f25eb60366d7625101a4c8fbbf542e5098bb855849d3a42055818a18e8b0ac85ad0d77ae753873c862d56fe98203a3b913ef181f922888994aa93e7512f4c793b623c8e128d27efae038b7dd45f3d9dbf047200151a27755d79c8d55b9da0f6ec3ec5afb28f1fb05a1febd6ca1a329e62b1f64eeda9480dfba9f8b7ecec0a6559f034ffdc1e42e538e4cca21a79ba273acf03cedf41c2a448c778326cd66835c593ef1a546f24929bdee853911da9c735d7ae133280af5d681974f4900f9ec45092c9825df841aec713d79b3991534cd62c004d9edc701b66b17756ad37213b8c30185abb53ddf1d1b07733f4994cd40a3cd7587872dd644a5baa5ee9ebfdcddbe6183d162def998af3affb7bbbf1a8c6651dc99dc2cb8ef609d3e8b189da475a417e8a81119b09376e0a33b8598495750ea35ec8a1cd3f0ed0aca3e26a71b737d24f48dacfaf9b4c5212c65c48c80d605decb88647d03791b0c0d171dbdd1fc89ded5ac210c5bffd31233097c65aeda74700aa2f3bcc9e93f70b30929122455a804ce7a22d0c143e8e4ec815635f82d616db2595bea0837a041f59307586ad59aabb1715e5478cb423de5b9eb329a0eff09dbc69b0a1994176bfae27e7f77bcf7bcb45758268d3ce904914609a589d0f1855650c0172c5d6a304189119f037f15d4e60634447a37d57e38122d8248003c573951a56674d5b943b43ae01fe8c85aebb01162d0938cb3168190c43f79788412069f8305d093b99a19213b696b081a6a2368707e198837d011cac8d63437e20984e38915a7bf4a07a8fb4cd9464c4a904dfc198611813eaee953cd466258c92a2d6a1090242e315617054974b2f9fec4ffe70a2da33508ef3de58690f9350b43fc28de8db19477cd0f58e378e92d9a52f983b5a26e73e1cb94181e337441b23cc6b4f0b1bf85b35eb5603fefbddf9b0a44403d89dc68154eeaa539031e8b12eca8b8b6642e277776da37ef0fcd3cf17b8c880b6473770e30c0c2c7e39637d399228c8b81a50003d616aecd35a65e916b2c462cd85ae1638fca1ac545652a06e9e276586dc60668cc5a00b613669fd3d0e147dd3ccedeb5e97828285e182d52589e3d4e3c71e65493c814d47a100af0fd0edea90de4eaa6ce81d4f52db9bd80f72b445fecc4d3458046028d0106745bb4e3e5f2735a54d3f8dd35f2c7990daf0747411615aa8354db6d947c7f7c6cbe9f05615949626b8102942532f1a65052298101c374aa049ef7f289ee554e0a32502d159622f459cf2a02646d7ecb3a0e0ec15ef66788be221dba0b47ffa6e8152ddd236a3921723b0071f46a2110433ab6ff52db04ff46bc086d8ff4a44a54f65d4251480a15069bf5b98f071d87cb5ac02a9bce8351e0bb1ab8188b7ac6dc4238f4f94cab1735bce5c705f1ca713e80704ded4728ce6330fd1a46a631af3cbc25c20d9ecf97742e6df8f35ea9db7d4293a65e62ddad2d13a8aaa95d3d4877b2bd9768f13500537a8705ede756d450723612085caf32628b73abd568334a5d6d844fcaa37ca5efca67d14044dc7fcec17a8ae60968c81433f831ac24aa0f8310879f34879c4a306727ee30605e104e37966d48c25ac598a9d7285714b1743b87df807d3ab392a7e4f431c06e93b4065fa43cf0e1586658f95b69d55506e3bb62c32cccc58902bf2ebdf59387b21bb6f3e1578a8fbf70a459f27da945dd2f7378c96c578363cb24add5cf1dcd68c6ec4296aa1f6e28b98b174534bc7f4dd398a7ea6e5d7d1b259178b123a13851f0ad745c0c6cdd8bb0171b44d03b743cf8c8a3f4b66d989287cd7e32f72179d89f4b9f94ed879b3bc1dee5874ad6c19c5001b813ab4f75f1efcb1cabf747f8ea6043edaf9b67692659d40c173d62655a9b0ffc2ec9c8b4988a3d9a4bfbc92341c5dd5acc09515a28d9c3320dcb87644af536570edf5323bab7a8229ba75b7352395288caf12a976559280d164304f3021f39e4065cb5ae9aeafcb47fcb0686a21f6572e572d60489fe43e308ba3773bf7696e32c7b70b7604ee510771b9eaed2d81dbb458511a15edff7fb1a76ce7f410d4fbba4af29df04a905ad7b0e2c30375bcc8d8388f6a9ecf54c299643dd03a833ff4d2e202a0b5c87361c1312a69acba16c152e12d808820b4e660edd308cd818b00e55680f3e0e91e5ee2b2fcf00254a34dd2dd9a345011a35622d3086a71e00660a384e413b9919cb137431811087584d5a55bbc71da77b4e3603f2dfd637cdba1f56233a39a6ee66537197aeafe442bfe3bc38e2db2fac66de1c06506927fee9ce322d31ff401de8b4064c00371b88e57b05c0566199c18986e4ad0c797e8c1c109946f597d8f2d3ce77979e6d26892574f2045e898ed3a104c27aa149ee159c689ca0506db9c96bd991c37521ba741187161efd42daae77c7fd5ac741dc068495925213abeb1087ff191e5fd49505cd4780ddb15fb5044642206878cd774864447e10d438cb83940603a459d6875ae5f3548bdae3c90bc5fe3dab4190903131c671efc8ee5fc3aabf0e23d4753e942ca28f58762f456192e7eae7c19d03ba4303bc52e87cf7769907e981bc0e0945d2793ef750c3c419824028bad424a11c4f863b6d34296f6f7c14f9d1b4fbbc8e5e8becacdb0d0754736ffc18f3f0b510554e356c16da42d446dd94e709b760d05331681a2721e564dcb99d269cc8bf5ce98628c97dc72d823743c232c4e67d9c3b233a9ab6fbad2d9280b82b1b991cdfadf1a828e8295c3ad34c892013ace1a282dd0bf93e3aaa894459eb4c3e20a75fd9c2c97e0f83d9568c45efce7f190925b73c81c64855ea4716e01ec5572b4daafb8edd0c82b6626294be276223cf8651492b8cff3cf7055768f569e56f89dd5656c2846409a28efa5d093a3a70b41639a82fbae4da9da61a9e0c31814f840a9e3bdcb713ffd230c1b22101792340a8e86e7301b1700a5404acb09b4d0644957827cee8cf3416562aa2328630b1986293d3fd85f538e0b22dbec8bb7cdf66debbfd690edc0ce21a45a47bccbb37734d2a05558a22e63440c51a68d772b42d9416de135424cc7f9ac962c805103a349472527a20e3a20764735cba424cd618aaaeadc9cb276741003c28e3e3ab3758dd88c69ca3d8830e27b444c209c7292f3092dbaa7ddfd4b0f9ea312a694e8af7312c98f05f0b70ad28e55a210765d8b9199bfa4a1af666845db18377ff0795720922e00f1afebfec02c05bb771a15e40350646b5cbe54b045ca3a0fa2aea3b90e91a2a22d755bccad8c8153190873324c304cb465616b648f2666b17c7c255d731331be370a85dcc9b3b750d35a24fcfb26c9</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">由于版权问题，不对外开放，点击输入密码。</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">请输入密码查看。</summary>
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="媒体处理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="fl" scheme="https://www.nite07.com/tags/fl/"/>
-    
-    <category term="studio" scheme="https://www.nite07.com/tags/studio/"/>
-    
-    <category term="水果" scheme="https://www.nite07.com/tags/%E6%B0%B4%E6%9E%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FastCopy 4.1.8 中文便携版</title>
-    <link href="https://www.nite07.com/fastcopy/"/>
-    <id>https://www.nite07.com/fastcopy/</id>
-    <published>2022-01-25T15:58:42.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Fastcopy是日本的最快的文件拷贝工具。磁盘间相互拷贝文件是司空见惯的事情，通常情况都是利用WINDOWS自带的复制粘贴功能来实现的。这样做在数目较小的情况下倒也没什么问题，但是数目较大时，系统自带的复制功能就有些力不从心了。这时就需要FASTCOPY。一个424MB的电影其拷贝时间仅为21秒，传输速度达到了21MB&#x2F;秒，不知比TotalCopy之流快了多少倍。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/FastCopy/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/FastCopy_4.1.8.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="文件管理" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="FastCopy" scheme="https://www.nite07.com/tags/FastCopy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AIDA64 6.75.6100 Engineer/Extreme 便携版</title>
-    <link href="https://www.nite07.com/aida64pc/"/>
-    <id>https://www.nite07.com/aida64pc/</id>
-    <published>2021-12-14T04:08:42.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>AIDA64是一款测试软硬件系统信息的工具，它可以详细的显示出PC每一个方面的信息。AIDA64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/AIDA64PC/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="Engineer"><a href="#Engineer" class="headerlink" title="Engineer"></a>Engineer</h2><p><a href="https://file.nite07.com/cn/AIDA64-Engineer_6.75.6100.7z">下载</a></p><h2 id="Extreme"><a href="#Extreme" class="headerlink" title="Extreme"></a>Extreme</h2><p><a href="https://file.nite07.com/cn/AIDA64-Extreme_6.75.6100.7z">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/"/>
-    
-    <category term="硬件相关" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Windows/%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Windows" scheme="https://www.nite07.com/tags/Windows/"/>
-    
-    <category term="AIDA64" scheme="https://www.nite07.com/tags/AIDA64/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smart Launcher 6.1.009 学习版</title>
-    <link href="https://www.nite07.com/smartlauncher/"/>
-    <id>https://www.nite07.com/smartlauncher/</id>
-    <published>2021-12-25T17:17:24.000Z</published>
-    <updated>2022-07-19T13:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Smart Launcher 提供专注于效率和自定义的全新 Android 体验。<br>一个新的简单主屏幕，显示重要信息。您所有的应用程序都按类别分类。更快、更轻松地执行日常任务所需的一切。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/SmartLauncher/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://file.nite07.com/cn/Smart-Launcher_6.1-build-009.apk">下载</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="实用资源" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/"/>
-    
-    <category term="系统工具" scheme="https://www.nite07.com/categories/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/Android/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="中文" scheme="https://www.nite07.com/tags/%E4%B8%AD%E6%96%87/"/>
-    
-    <category term="实用资源" scheme="https://www.nite07.com/tags/%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90/"/>
-    
-    <category term="Android" scheme="https://www.nite07.com/tags/Android/"/>
-    
-    <category term="Smart Launcher" scheme="https://www.nite07.com/tags/Smart-Launcher/"/>
     
   </entry>
   
