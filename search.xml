@@ -1181,9 +1181,9 @@
             
             <tag> 英文 </tag>
             
-            <tag> OpenRoads </tag>
-            
             <tag> Designer </tag>
+            
+            <tag> OpenRoads </tag>
             
         </tags>
       
@@ -1218,9 +1218,9 @@
             
             <tag> Windows </tag>
             
-            <tag> ConceptStation </tag>
-            
             <tag> OpenRoads </tag>
+            
+            <tag> ConceptStation </tag>
             
         </tags>
       
@@ -18089,9 +18089,9 @@
           
           <category> 实用资源 </category>
           
-          <category> Android </category>
-          
           <category> Windows </category>
+          
+          <category> Android </category>
           
           <category> 科学上网 </category>
           
@@ -19955,7 +19955,7 @@
       <link href="/e5developer/"/>
       <url>/e5developer/</url>
       
-        <content type="html"><![CDATA[<h1 id="Office-365开发人员计划"><a href="#Office-365开发人员计划" class="headerlink" title="Office 365开发人员计划"></a>Office 365开发人员计划</h1><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/2.jpg"></p><p><a href="https://developer.microsoft.com/zh-cn/microsoft-365/dev-program">官方链接</a></p><h1 id="为什么加入Office-365开发人员计划"><a href="#为什么加入Office-365开发人员计划" class="headerlink" title="为什么加入Office 365开发人员计划"></a>为什么加入Office 365开发人员计划</h1><ul><li>免费使用 Office 365 正版应用</li><li>Onedrive 网盘 5T 空间</li><li>可创建25个子账号分享给别人，每个人都可以拥有同样的订阅服务</li></ul><h1 id="如何申请"><a href="#如何申请" class="headerlink" title="如何申请"></a>如何申请</h1><ol><li><p>点击官网 <strong>立即加入</strong> 按钮</p></li><li><p>登录微软账号</p></li><li><p>填写信息，下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/3.png"></p></li><li><p>随便选，一直下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/4.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/5.png"></p></li><li><p>点击 <strong>设置E5订阅</strong><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/6.png"></p></li><li><p>用户名和域根据需求填写，验证手机号之后等待操作<br><code>admin@nite07example.onmicrosoft.com</code> 这里是你的E5管理员账号(就是一个微软账号)<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/7.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/8.png"></p></li><li><p>出现这个界面就是申请完成了<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/9.png"></p></li></ol><p><strong>注意: 申请的E5账号有效期为90天，微软会玄学续订，想要提高续订概率请阅读下文 自动续订</strong></p><h1 id="设置-5T-Onedrive-空间"><a href="#设置-5T-Onedrive-空间" class="headerlink" title="设置 5T Onedrive 空间"></a>设置 5T Onedrive 空间</h1><p><a href="https://admin.onedrive.com/">点击进入设置</a></p><ol><li>登录E5管理员账号</li><li>点击 <code>设置 -&gt; 储存空间上限</code><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/10.png"></li><li>设置为 <strong>5120</strong> 保存<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/11.png"></li></ol><h1 id="创建子账号"><a href="#创建子账号" class="headerlink" title="创建子账号"></a>创建子账号</h1><p><a href="https://admin.microsoft.com/">点击进入设置</a></p><ol><li>登录E5管理员账号（本例中为<code>admin@nite07example.onmicrosoft.com</code>）</li><li>点击 <code>用户 -&gt; 活跃用户 -&gt; 添加用户</code> ，设置用户 <strong>显示名称</strong> 和 <strong>用户名</strong> 下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/12.png"></li><li>在 许可证 这一步可以选择是否给新建用户增加权限<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/13.png"></li><li>其他设置按需填写</li></ol><h1 id="添加个人域名缩短账号长度"><a href="#添加个人域名缩短账号长度" class="headerlink" title="添加个人域名缩短账号长度"></a>添加个人域名缩短账号长度</h1><blockquote><p>个人域名需要购买</p></blockquote><p>在 Microsoft 365 admin center 中 点击 <code>设置 -&gt; 域 -&gt; 添加域</code> 输入个人域名后按提示解析域名即可<br>成功绑定域之后可以把新域作为微软账号（即替换 <code>example.onmicrosoft.com</code>）<br>例如:<br>   我的域名为：nite07.com<br>   我的E5微软账号为：<a href="mailto:&#110;&#105;&#116;&#101;&#48;&#55;&#64;&#110;&#x69;&#116;&#x65;&#x30;&#x37;&#46;&#99;&#x6f;&#109;">&#110;&#105;&#116;&#101;&#48;&#55;&#64;&#110;&#x69;&#116;&#x65;&#x30;&#x37;&#46;&#99;&#x6f;&#109;</a></p><h1 id="自动续订"><a href="#自动续订" class="headerlink" title="自动续订"></a>自动续订</h1><blockquote><p>以下方法不保证 100% 成功续订</p></blockquote><h2 id="方法一：e5-qyi-io"><a href="#方法一：e5-qyi-io" class="headerlink" title="方法一：e5.qyi.io"></a>方法一：e5.qyi.io</h2><blockquote><p>此方法需要有 <a href="https://github.com/">Github</a> 账号</p></blockquote><p><a href="https://e5.qyi.io/">点击前往设置</a><br><a href="https://qyi.io/archives/687.html">点击查看官方教程</a></p><h2 id="方法二：Microsoft365-E5-Renew-Plus"><a href="#方法二：Microsoft365-E5-Renew-Plus" class="headerlink" title="方法二：Microsoft365 E5 Renew Plus"></a>方法二：Microsoft365 E5 Renew Plus</h2><p><a href="https://file.nite07.com/cn/Microsoft365%20E5%20Renew%20Plus.zip">下载</a></p><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/14.jpg"></p><p>详细用法参考 <a href="https://docs.qq.com/doc/DV1BibHVSSUhtUXdi">官方帮助</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Office-365开发人员计划"><a href="#Office-365开发人员计划" class="headerlink" title="Office 365开发人员计划"></a>Office 365开发人员计划</h1><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/2.jpg"></p><p><a href="https://developer.microsoft.com/zh-cn/microsoft-365/dev-program">官方链接</a></p><h1 id="为什么加入Office-365开发人员计划"><a href="#为什么加入Office-365开发人员计划" class="headerlink" title="为什么加入Office 365开发人员计划"></a>为什么加入Office 365开发人员计划</h1><ul><li>免费使用 Office 365 正版应用</li><li>Onedrive 网盘 5T 空间</li><li>可创建25个子账号分享给别人，每个人都可以拥有同样的订阅服务</li></ul><h1 id="如何申请"><a href="#如何申请" class="headerlink" title="如何申请"></a>如何申请</h1><ol><li><p>点击官网 <strong>立即加入</strong> 按钮</p></li><li><p>登录微软账号</p></li><li><p>填写信息，下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/3.png"></p></li><li><p>随便选，一直下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/4.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/5.png"></p></li><li><p>点击 <strong>设置E5订阅</strong><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/6.png"></p></li><li><p>用户名和域根据需求填写，验证手机号之后等待操作<br><code>admin@nite07example.onmicrosoft.com</code> 这里是你的E5管理员账号(就是一个微软账号)<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/7.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/8.png"></p></li><li><p>出现这个界面就是申请完成了<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/9.png"></p></li></ol><p><strong>注意: 申请的E5账号有效期为90天，微软会玄学续订，想要提高续订概率请阅读下文 自动续订</strong></p><h1 id="设置-5T-Onedrive-空间"><a href="#设置-5T-Onedrive-空间" class="headerlink" title="设置 5T Onedrive 空间"></a>设置 5T Onedrive 空间</h1><p><a href="https://admin.onedrive.com/">点击进入设置</a></p><ol><li>登录E5管理员账号</li><li>点击 <code>设置 -&gt; 储存空间上限</code><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/10.png"></li><li>设置为 <strong>5120</strong> 保存<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/11.png"></li></ol><h1 id="创建子账号"><a href="#创建子账号" class="headerlink" title="创建子账号"></a>创建子账号</h1><p><a href="https://admin.microsoft.com/">点击进入设置</a></p><ol><li>登录E5管理员账号（本例中为<code>admin@nite07example.onmicrosoft.com</code>）</li><li>点击 <code>用户 -&gt; 活跃用户 -&gt; 添加用户</code> ，设置用户 <strong>显示名称</strong> 和 <strong>用户名</strong> 下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/12.png"></li><li>在 许可证 这一步可以选择是否给新建用户增加权限<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/13.png"></li><li>其他设置按需填写</li></ol><h1 id="添加个人域名缩短账号长度"><a href="#添加个人域名缩短账号长度" class="headerlink" title="添加个人域名缩短账号长度"></a>添加个人域名缩短账号长度</h1><blockquote><p>个人域名需要购买</p></blockquote><p>在 Microsoft 365 admin center 中 点击 <code>设置 -&gt; 域 -&gt; 添加域</code> 输入个人域名后按提示解析域名即可<br>成功绑定域之后可以把新域作为微软账号（即替换 <code>example.onmicrosoft.com</code>）<br>例如:<br>   我的域名为：nite07.com<br>   我的E5微软账号为：<a href="mailto:&#x6e;&#x69;&#x74;&#101;&#48;&#55;&#64;&#x6e;&#x69;&#x74;&#x65;&#x30;&#x37;&#x2e;&#x63;&#111;&#x6d;">&#x6e;&#x69;&#x74;&#101;&#48;&#55;&#64;&#x6e;&#x69;&#x74;&#x65;&#x30;&#x37;&#x2e;&#x63;&#111;&#x6d;</a></p><h1 id="自动续订"><a href="#自动续订" class="headerlink" title="自动续订"></a>自动续订</h1><blockquote><p>以下方法不保证 100% 成功续订</p></blockquote><h2 id="方法一：e5-qyi-io"><a href="#方法一：e5-qyi-io" class="headerlink" title="方法一：e5.qyi.io"></a>方法一：e5.qyi.io</h2><blockquote><p>此方法需要有 <a href="https://github.com/">Github</a> 账号</p></blockquote><p><a href="https://e5.qyi.io/">点击前往设置</a><br><a href="https://qyi.io/archives/687.html">点击查看官方教程</a></p><h2 id="方法二：Microsoft365-E5-Renew-Plus"><a href="#方法二：Microsoft365-E5-Renew-Plus" class="headerlink" title="方法二：Microsoft365 E5 Renew Plus"></a>方法二：Microsoft365 E5 Renew Plus</h2><p><a href="https://file.nite07.com/cn/Microsoft365%20E5%20Renew%20Plus.zip">下载</a></p><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/14.jpg"></p><p>详细用法参考 <a href="https://docs.qq.com/doc/DV1BibHVSSUhtUXdi">官方帮助</a></p>]]></content>
       
       
       <categories>
