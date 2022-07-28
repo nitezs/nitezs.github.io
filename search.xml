@@ -3820,11 +3820,11 @@
     
     
     <entry>
-      <title>64Gram 1.0.39 - 第三方PC端Telegram</title>
+      <title>64Gram - 第三方PC端Telegram</title>
       <link href="/64gram/"/>
       <url>/64gram/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>第三方PC端Telegram</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/64Gram/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/TDesktop-x64/tdesktop/releases/download/v1.0.39/64Gram-setup-x64-1.0.39.exe">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>第三方PC端Telegram</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/64Gram/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/TDesktop-x64/tdesktop/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -5965,11 +5965,11 @@
     
     
     <entry>
-      <title>SandBoxie Classic 5.56.3/Plus 1.1.3</title>
+      <title>SandBoxie</title>
       <link href="/sandboxie/"/>
       <url>/sandboxie/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Sandboxie（直译“沙盘”）允许你在“沙盘环境”中运行浏览器或其他程序，这个“沙盘”个人感觉就是跟“影子”一样的概念罢了。 因此，在沙盘中运行的程序所产生的变化可以随时删除。 可用来保护浏览网页时真实系统的安全，也可以用来清除上网、运行程序的痕迹，还可以用来测试软件，测试病毒等用途。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Sandboxie/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="Classic"><a href="#Classic" class="headerlink" title="Classic"></a>Classic</h2><p><a href="https://gh.nite07.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.1.3/Sandboxie-Classic-x64-v5.56.3.exe">下载</a></p><h2 id="Plus"><a href="#Plus" class="headerlink" title="Plus"></a>Plus</h2><p><a href="https://gh.nite07.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.1.3/Sandboxie-Plus-x64-v1.1.3.exe">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Sandboxie（直译“沙盘”）允许你在“沙盘环境”中运行浏览器或其他程序，这个“沙盘”个人感觉就是跟“影子”一样的概念罢了。 因此，在沙盘中运行的程序所产生的变化可以随时删除。 可用来保护浏览网页时真实系统的安全，也可以用来清除上网、运行程序的痕迹，还可以用来测试软件，测试病毒等用途。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Sandboxie/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/sandboxie-plus/Sandboxie/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -6342,11 +6342,11 @@
     
     
     <entry>
-      <title>Ventoy 1.0.78</title>
+      <title>Ventoy</title>
       <link href="/ventoy/"/>
       <url>/ventoy/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Ventoy是一个制作可启动U盘的开源工具。 有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。 你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。 … 目前已经测试了各类超过300+ 个ISO文件(列表).</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Ventoy/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/ventoy/Ventoy/releases/download/v1.0.78/ventoy-1.0.78-windows.zip">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Ventoy是一个制作可启动U盘的开源工具。 有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。 你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。 … 目前已经测试了各类超过300+ 个ISO文件(列表).</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Ventoy/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/ventoy/Ventoy/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -6692,11 +6692,11 @@
     
     
     <entry>
-      <title>洛雪音乐助手 1.22.1 (安装/便携)</title>
+      <title>洛雪音乐助手</title>
       <link href="/lxmusic/"/>
       <url>/lxmusic/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>洛雪音乐助手 是一款基于Electron+Vue开发的Windows版音乐软件，支持搜索下载无损格式的音质，也可以在线听歌，是一款简单非常强的音乐软件。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://gh.nite07.com/https://github.com/lyswhut/lx-music-desktop/releases/download/v1.22.1/lx-music-desktop-v1.22.1-x64-Setup.exe">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://gh.nite07.com/https://github.com/lyswhut/lx-music-desktop/releases/download/v1.22.1/lx-music-desktop-v1.22.1-win_x64-green.7z">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>洛雪音乐助手 是一款基于Electron+Vue开发的Windows版音乐软件，支持搜索下载无损格式的音质，也可以在线听歌，是一款简单非常强的音乐软件。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/lyswhut/lx-music-desktop/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -6832,11 +6832,11 @@
     
     
     <entry>
-      <title>Notepad++ 8.4.4 (安装/便携) 官方版</title>
+      <title>Notepad++</title>
       <link href="/notepadplusplus/"/>
       <url>/notepadplusplus/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Notepad++是Windows操作系统下的一套文本编辑器(软件版权许可证: GPL)，有完整的中文化接口及支持多国语言编写的功能(UTF8技术)。 Notepad++功能比Windows 中的Notepad(记事本)强大，除了可以用来制作一般的纯文字说明文件，也十分适合编写计算机程序代码。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/NotepadPlusPlus/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://gh.nite07.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.4/npp.8.4.4.Installer.x64.exe">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://gh.nite07.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.4/npp.8.4.4.portable.x64.7z">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Notepad++是Windows操作系统下的一套文本编辑器(软件版权许可证: GPL)，有完整的中文化接口及支持多国语言编写的功能(UTF8技术)。 Notepad++功能比Windows 中的Notepad(记事本)强大，除了可以用来制作一般的纯文字说明文件，也十分适合编写计算机程序代码。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/NotepadPlusPlus/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/notepad-plus-plus/notepad-plus-plus/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -6902,11 +6902,11 @@
     
     
     <entry>
-      <title>OBS Studio 27.2.4</title>
+      <title>OBS Studio</title>
       <link href="/obsstudio/"/>
       <url>/obsstudio/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>OBS是一个用于录制和进行网络直播的自由开源软件包。OBS使用C和C++语言编写，提供实时源和设备捕获、场景组成、编码、录制和广播。数据传输主要通过实时消息协议（RTMP）完成，可以发送到任何支持RTMP的软件，包括YouTube、Twitch.tv、Instagram和Facebook等流媒体网站。<br>在视频编码方面，OBS可以使用X264自由软件程序库、Intel Quick Sync Video、Nvidia NVENC和AMD视频编码引擎将视频流编码为H.264&#x2F;MPEG-4 AVC和H.265&#x2F;HEVC格式。音频可以使用MP3或AAC编解码器进行编码。进阶用户可以选择使用Libavcodec&#x2F;libavformat中的任何编解码器和容器，也可以将流输出到自定义FFmpeg URL。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/OBS/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://gh.nite07.com/https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://gh.nite07.com/https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-x64.zip">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>OBS是一个用于录制和进行网络直播的自由开源软件包。OBS使用C和C++语言编写，提供实时源和设备捕获、场景组成、编码、录制和广播。数据传输主要通过实时消息协议（RTMP）完成，可以发送到任何支持RTMP的软件，包括YouTube、Twitch.tv、Instagram和Facebook等流媒体网站。<br>在视频编码方面，OBS可以使用X264自由软件程序库、Intel Quick Sync Video、Nvidia NVENC和AMD视频编码引擎将视频流编码为H.264&#x2F;MPEG-4 AVC和H.265&#x2F;HEVC格式。音频可以使用MP3或AAC编解码器进行编码。进阶用户可以选择使用Libavcodec&#x2F;libavformat中的任何编解码器和容器，也可以将流输出到自定义FFmpeg URL。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/OBS/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://github.com/obsproject/obs-studio/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -11106,11 +11106,11 @@
     
     
     <entry>
-      <title>VisualCppRedist 61 - VC++ 运行库合集</title>
+      <title>VisualCppRedist - VC++ 运行库合集</title>
       <link href="/visualcppredist/"/>
       <url>/visualcppredist/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>VisualCppRedist是VC++运行库的合集，安装快速，如果你电脑里的一些程序因为缺少运行库的原因无法运行，那么这个VisualCppRedist可以帮到你。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/VisualCppRedist/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/abbodi1406/vcredist/releases/download/v0.61.0/VisualCppRedist_AIO_x86_x64_61.zip">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>VisualCppRedist是VC++运行库的合集，安装快速，如果你电脑里的一些程序因为缺少运行库的原因无法运行，那么这个VisualCppRedist可以帮到你。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/VisualCppRedist/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/abbodi1406/vcredist/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -11281,11 +11281,11 @@
     
     
     <entry>
-      <title>AdAway 6.0.2</title>
+      <title>AdAway</title>
       <link href="/adaway/"/>
       <url>/adaway/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>广告快走开AdAway是一款基于hosts文件的Android屏蔽软件，同时hosts文件列表由开源组织进行维护，时刻保持最新信息。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/AdAway/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/AdAway/AdAway/releases/download/v6.0.2b/AdAway-6.0.2-20220616.apk">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>广告快走开AdAway是一款基于hosts文件的Android屏蔽软件，同时hosts文件列表由开源组织进行维护，时刻保持最新信息。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/AdAway/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/AdAway/AdAway/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -11841,11 +11841,11 @@
     
     
     <entry>
-      <title>Draw.io 19.0.2 - 免费开源的绘图软件</title>
+      <title>Draw.io - 免费开源的绘图软件</title>
       <link href="/drawio/"/>
       <url>/drawio/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>draw.io desktop是一款非常好用的在线流程图绘制工具，允许用户能够快速、自由的创建简单的图标、流程图、网页模版构架图、框架图等，并可通过浏览器Chrome插件就可以快速创建想要的效果图，适用于商务、工程、电气、网络设计、软件设计等诸多领域的专业绘图。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/draw-io/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://gh.nite07.com/https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-19.0.2-windows-installer.exe">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://gh.nite07.com/https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-19.0.2-windows-no-installer.exe">下载</a></p><h2 id="网页版"><a href="#网页版" class="headerlink" title="网页版"></a>网页版</h2><p><a href="https://draw.io/">网页版</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>draw.io desktop是一款非常好用的在线流程图绘制工具，允许用户能够快速、自由的创建简单的图标、流程图、网页模版构架图、框架图等，并可通过浏览器Chrome插件就可以快速创建想要的效果图，适用于商务、工程、电气、网络设计、软件设计等诸多领域的专业绘图。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/draw-io/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/jgraph/drawio-desktop/releases/">Github下载</a></p><h1 id="网页版"><a href="#网页版" class="headerlink" title="网页版"></a>网页版</h1><p><a href="https://draw.io/">网页版</a></p>]]></content>
       
       
       <categories>
@@ -11983,11 +11983,11 @@
     
     
     <entry>
-      <title>Lively Wallpaper 2.0.2.4 官方版</title>
+      <title>Lively Wallpaper 官方版</title>
       <link href="/livelywallpaper/"/>
       <url>/livelywallpaper/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/rocksdanister/lively">Github</a></p><p>Lively Wallpaper是一款开源免费的 Windows 动态桌面&#x2F;视频壁纸&#x2F;桌面美化软件，它可以让你的 PC 桌面骚动起来，一打开电脑就能感受到扑面而来的酷炫动画效果视觉冲击！每天都能让你心情大好。<br>相比最广受好评的 Wallpaper Engine 而言，Lively 最大的特点就是开源且完全免费，而且不必强制额外安装Steam，也算是更轻量小巧了。Lively 基于 C#开发，运行性能和资源占用情况也很不错，虽然软件比较年轻，总体不如 WE 成熟，比如它目前仅支持Windows 10 (v1903)或以上版本系统，但我认为它还是值得推荐的，毕竟开源有发展潜力。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Lively-Wallpaper/2.jpg"> </p><h1 id="常用壁纸站"><a href="#常用壁纸站" class="headerlink" title="常用壁纸站"></a>常用壁纸站</h1><blockquote><p>可能需要出墙</p></blockquote><p><a href="https://wallpaperwaifu.com/">wallpaperwaifu</a></p><p><a href="https://mylivewallpapers.com/">mylivewallpapers</a></p><p><a href="https://www.deviantart.com/livelywallpaper/gallery/">deviantart</a></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/rocksdanister/lively/releases/download/v2.0.2.4/lively_setup_x86_full_v2024.exe">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/rocksdanister/lively">Github</a></p><p>Lively Wallpaper是一款开源免费的 Windows 动态桌面&#x2F;视频壁纸&#x2F;桌面美化软件，它可以让你的 PC 桌面骚动起来，一打开电脑就能感受到扑面而来的酷炫动画效果视觉冲击！每天都能让你心情大好。<br>相比最广受好评的 Wallpaper Engine 而言，Lively 最大的特点就是开源且完全免费，而且不必强制额外安装Steam，也算是更轻量小巧了。Lively 基于 C#开发，运行性能和资源占用情况也很不错，虽然软件比较年轻，总体不如 WE 成熟，比如它目前仅支持Windows 10 (v1903)或以上版本系统，但我认为它还是值得推荐的，毕竟开源有发展潜力。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/Lively-Wallpaper/2.jpg"> </p><h1 id="常用壁纸站"><a href="#常用壁纸站" class="headerlink" title="常用壁纸站"></a>常用壁纸站</h1><blockquote><p>可能需要出墙</p></blockquote><p><a href="https://wallpaperwaifu.com/">wallpaperwaifu</a></p><p><a href="https://mylivewallpapers.com/">mylivewallpapers</a></p><p><a href="https://www.deviantart.com/livelywallpaper/gallery/">deviantart</a></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/rocksdanister/lively/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -15725,11 +15725,11 @@
     
     
     <entry>
-      <title>NekoX(Nekogram X) 8.7.4 - 第三方 Telegram 免翻安卓客户端</title>
+      <title>NekoX(Nekogram X) - 第三方 Telegram 免翻安卓客户端</title>
       <link href="/nekox/"/>
       <url>/nekox/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>第三方 Telegram 安卓客户端，基于 Nekogram 二次修改<br>相较于 Nekogram 修改内容更多</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/NekoX/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/NekoX-Dev/NekoX/releases/download/v8.7.4/NekoX-v8.7.4-full-arm64-v8a-release.apk">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>第三方 Telegram 安卓客户端，基于 Nekogram 二次修改<br>相较于 Nekogram 修改内容更多</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/NekoX/2.jpg"> </p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/NekoX-Dev/NekoX/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -16608,11 +16608,11 @@
     
     
     <entry>
-      <title>云萌 Windows10 激活工具 2.5.0.0 (安装/便携)</title>
+      <title>云萌 Windows10 激活工具</title>
       <link href="/yunmengjihuo/"/>
       <url>/yunmengjihuo/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">Github</a></p><p>一款使用CSharp编写的 Windows 10 数字权利激活工具。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E4%BA%91%E8%90%8C%E6%BF%80%E6%B4%BB/2.jpg"></p><h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><h2 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h2><h3 id="使用自动模式激活-Windows-10"><a href="#使用自动模式激活-Windows-10" class="headerlink" title="使用自动模式激活 Windows 10"></a>使用自动模式激活 Windows 10</h3><ol><li>下载 Releases 里的 .exe 发行文件。</li><li>运行它。</li><li>点按 Activate 按钮。</li><li>完成~</li></ol><h2 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h2><h3 id="在不同版本-Windows-10-之间转换"><a href="#在不同版本-Windows-10-之间转换" class="headerlink" title="在不同版本 Windows 10 之间转换"></a>在不同版本 Windows 10 之间转换</h3><blockquote><p>注意: 目前已知 Windows 10 的 专业版（Professional）、专业工作站版（ProfessionalWorkstation）、教育版（Education）、专业教育版（ProfessionalEducation）、企业版（Enterprise） 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与家庭版（Core）均不能一键转换，如需转换请使用 Windows设置 中的 更改产品密钥 功能进行升级。</p></blockquote><h4 id="Auto-Mode-自动模式"><a href="#Auto-Mode-自动模式" class="headerlink" title="Auto Mode 自动模式"></a><code>Auto Mode</code> 自动模式</h4><ol><li>运行它。</li><li>选择 <code>Auto Mode</code> 。</li><li>在下拉列表中选择要升级到的版本。</li><li>点按 <code>Convert Versions</code> 按钮。</li><li>完成。</li></ol><h4 id="Manual-Mode-手动模式"><a href="#Manual-Mode-手动模式" class="headerlink" title="Manual Mode 手动模式"></a><code>Manual Mode</code> 手动模式</h4><ol><li>运行它。</li><li>选择 <code>Manual Mode</code> 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 <code>VK7JG-NPHTM-C97JM-9MPGT-3V66T</code>）。</li><li>点按 <code>Activate</code> 按钮。</li><li>完成。</li></ol><h3 id="通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本"><a href="#通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本" class="headerlink" title="通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本"></a>通过 <code>Manual Mode</code> 手动模式激活不在列表中的 <code>Windows 10</code> 版本</h3><blockquote><p>注意:  此方法不适用于某些版本的激活，如 <code>专业教育版（ProfessionalEducation）</code> ，即使你输入了对应的OEM零售密钥。</p></blockquote><ol><li>运行它。</li><li>选择 <code>Manual Mode</code> 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 <code>VK7JG-NPHTM-C97JM-9MPGT-3V66T</code>）。</li><li>点按 <code>Convert Versions</code> 按钮。</li><li>完成。</li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p><a href="https://gh.nite07.com/https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download/2.5.0.0/CMWTAT_Digital_Release_2_5_0_0.exe">下载</a></p><h2 id="便携版"><a href="#便携版" class="headerlink" title="便携版"></a>便携版</h2><p><a href="https://gh.nite07.com/https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download/2.5.0.0/CMWTAT_Digital_Release_2_5_0_0.zip">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">Github</a></p><p>一款使用CSharp编写的 Windows 10 数字权利激活工具。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E4%BA%91%E8%90%8C%E6%BF%80%E6%B4%BB/2.jpg"></p><h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><h2 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h2><h3 id="使用自动模式激活-Windows-10"><a href="#使用自动模式激活-Windows-10" class="headerlink" title="使用自动模式激活 Windows 10"></a>使用自动模式激活 Windows 10</h3><ol><li>下载 Releases 里的 .exe 发行文件。</li><li>运行它。</li><li>点按 Activate 按钮。</li><li>完成~</li></ol><h2 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h2><h3 id="在不同版本-Windows-10-之间转换"><a href="#在不同版本-Windows-10-之间转换" class="headerlink" title="在不同版本 Windows 10 之间转换"></a>在不同版本 Windows 10 之间转换</h3><blockquote><p>注意: 目前已知 Windows 10 的 专业版（Professional）、专业工作站版（ProfessionalWorkstation）、教育版（Education）、专业教育版（ProfessionalEducation）、企业版（Enterprise） 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与家庭版（Core）均不能一键转换，如需转换请使用 Windows设置 中的 更改产品密钥 功能进行升级。</p></blockquote><h4 id="Auto-Mode-自动模式"><a href="#Auto-Mode-自动模式" class="headerlink" title="Auto Mode 自动模式"></a><code>Auto Mode</code> 自动模式</h4><ol><li>运行它。</li><li>选择 <code>Auto Mode</code> 。</li><li>在下拉列表中选择要升级到的版本。</li><li>点按 <code>Convert Versions</code> 按钮。</li><li>完成。</li></ol><h4 id="Manual-Mode-手动模式"><a href="#Manual-Mode-手动模式" class="headerlink" title="Manual Mode 手动模式"></a><code>Manual Mode</code> 手动模式</h4><ol><li>运行它。</li><li>选择 <code>Manual Mode</code> 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 <code>VK7JG-NPHTM-C97JM-9MPGT-3V66T</code>）。</li><li>点按 <code>Activate</code> 按钮。</li><li>完成。</li></ol><h3 id="通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本"><a href="#通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本" class="headerlink" title="通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本"></a>通过 <code>Manual Mode</code> 手动模式激活不在列表中的 <code>Windows 10</code> 版本</h3><blockquote><p>注意:  此方法不适用于某些版本的激活，如 <code>专业教育版（ProfessionalEducation）</code> ，即使你输入了对应的OEM零售密钥。</p></blockquote><ol><li>运行它。</li><li>选择 <code>Manual Mode</code> 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 <code>VK7JG-NPHTM-C97JM-9MPGT-3V66T</code>）。</li><li>点按 <code>Convert Versions</code> 按钮。</li><li>完成。</li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -17510,11 +17510,11 @@
     
     
     <entry>
-      <title>PixEz Flutter 0.9.2 - 第三方免翻 Pixiv</title>
+      <title>PixEz Flutter - 第三方免翻 Pixiv</title>
       <link href="/pixez/"/>
       <url>/pixez/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/Notsfsssf/pixez-flutter">Github</a></p><p>使用 Flutter 编写的 pixiv 第三方客户端。<br>可以全程直连，登录页面加载有点慢，但是能加载出来，图床不要选默认的。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/PixEz%20Flutter/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/Notsfsssf/pixez-flutter/releases/download/0.9.2/app-release.apk">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://github.com/Notsfsssf/pixez-flutter">Github</a></p><p>使用 Flutter 编写的 pixiv 第三方客户端。<br>可以全程直连，登录页面加载有点慢，但是能加载出来，图床不要选默认的。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/PixEz%20Flutter/2.jpg"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/Notsfsssf/pixez-flutter/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -17864,11 +17864,11 @@
     
     
     <entry>
-      <title>Clash for Android Premium 2.5.11 及使用教程</title>
+      <title>Clash for Android Premium 及使用教程</title>
       <link href="/clashforandroid/"/>
       <url>/clashforandroid/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Clash for Android是一个可视化的，基于Clash内核的 Android 图形客户端。<br>支持 <code>VMess</code>、<code>Shadowsocks</code>、<code>Trojan</code> 协议</p><h1 id="Clash-for-Android-下载"><a href="#Clash-for-Android-下载" class="headerlink" title="Clash for Android 下载"></a>Clash for Android 下载</h1><p><a href="https://gh.nite07.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk">下载</a></p><h1 id="配置-Clash-for-Android"><a href="#配置-Clash-for-Android" class="headerlink" title="配置 Clash for Android"></a>配置 Clash for Android</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><ol><li>在机场官网复制订阅时点击 <code>一键导入 Clash</code>，在弹出页面直接点击右上角保存  </li><li>打开 Clash for Android，点击 <code>配置</code>  </li><li>选中刚刚添加的订阅项  </li><li>回到主界面，点击 <code>已停止</code>  </li><li>点击 <code>代理</code>  </li><li>点击右上角闪电按钮，测试节点Tcping，测试完成后选择后面有数字的节点，点击右下角图标连接代理</li></ol><p><img src="/img/Clash%20for%20Android/2.png">  <img src="/img/Clash%20for%20Android/3.png">  <img src="/img/Clash%20for%20Android/4.png"><br><img src="/img/Clash%20for%20Android/5.png">  <img src="/img/Clash%20for%20Android/6.png">  <img src="/img/Clash%20for%20Android/7.png"> </p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><ol><li>复制 Clash 订阅链接，打开 Clash for Android，点击 <code>配置</code>  </li><li>点击右上角 <code>+</code> 号  </li><li>选择 <code>从URL导入</code>  </li><li>将订阅链接粘贴到 <code>URL</code> 框中，点击右上角保存  </li><li>选中刚刚添加的订阅项  </li><li>回到主界面，点击 <code>已停止</code>  </li><li>点击 <code>代理</code>  </li><li>点击右上角闪电按钮，测试节点Tcping，测试完成后选择后面有数字的节点，点击右下角图标连接代理</li></ol><p><img src="/img/Clash%20for%20Android/8.png">   <img src="/img/Clash%20for%20Android/9.png">   <img src="/img/Clash%20for%20Android/10.png">  <img src="/img/Clash%20for%20Android/11.png"><br><img src="/img/Clash%20for%20Android/12.png">  <img src="/img/Clash%20for%20Android/13.png">  <img src="/img/Clash%20for%20Android/14.png">  <img src="/img/Clash%20for%20Android/15.png"> </p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Clash for Android是一个可视化的，基于Clash内核的 Android 图形客户端。<br>支持 <code>VMess</code>、<code>Shadowsocks</code>、<code>Trojan</code> 协议</p><h1 id="Clash-for-Android-下载"><a href="#Clash-for-Android-下载" class="headerlink" title="Clash for Android 下载"></a>Clash for Android 下载</h1><p><a href="https://github.com/Kr328/ClashForAndroid/releases/">Github下载</a></p><h1 id="配置-Clash-for-Android"><a href="#配置-Clash-for-Android" class="headerlink" title="配置 Clash for Android"></a>配置 Clash for Android</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><ol><li>在机场官网复制订阅时点击 <code>一键导入 Clash</code>，在弹出页面直接点击右上角保存  </li><li>打开 Clash for Android，点击 <code>配置</code>  </li><li>选中刚刚添加的订阅项  </li><li>回到主界面，点击 <code>已停止</code>  </li><li>点击 <code>代理</code>  </li><li>点击右上角闪电按钮，测试节点Tcping，测试完成后选择后面有数字的节点，点击右下角图标连接代理</li></ol><p><img src="/img/Clash%20for%20Android/2.png">  <img src="/img/Clash%20for%20Android/3.png">  <img src="/img/Clash%20for%20Android/4.png"><br><img src="/img/Clash%20for%20Android/5.png">  <img src="/img/Clash%20for%20Android/6.png">  <img src="/img/Clash%20for%20Android/7.png"> </p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><ol><li>复制 Clash 订阅链接，打开 Clash for Android，点击 <code>配置</code>  </li><li>点击右上角 <code>+</code> 号  </li><li>选择 <code>从URL导入</code>  </li><li>将订阅链接粘贴到 <code>URL</code> 框中，点击右上角保存  </li><li>选中刚刚添加的订阅项  </li><li>回到主界面，点击 <code>已停止</code>  </li><li>点击 <code>代理</code>  </li><li>点击右上角闪电按钮，测试节点Tcping，测试完成后选择后面有数字的节点，点击右下角图标连接代理</li></ol><p><img src="/img/Clash%20for%20Android/8.png">   <img src="/img/Clash%20for%20Android/9.png">   <img src="/img/Clash%20for%20Android/10.png">  <img src="/img/Clash%20for%20Android/11.png"><br><img src="/img/Clash%20for%20Android/12.png">  <img src="/img/Clash%20for%20Android/13.png">  <img src="/img/Clash%20for%20Android/14.png">  <img src="/img/Clash%20for%20Android/15.png"> </p>]]></content>
       
       
       <categories>
@@ -18148,11 +18148,11 @@
     
     
     <entry>
-      <title>Clash for Windows 0.19.25 (英文/中文) 及使用教程</title>
+      <title>Clash for Windows (英文/中文) 及使用教程</title>
       <link href="/clashforwindowsguide/"/>
       <url>/clashforwindowsguide/</url>
       
-        <content type="html"><![CDATA[<h1 id="Clash-for-Windows"><a href="#Clash-for-Windows" class="headerlink" title="Clash for Windows"></a>Clash for Windows</h1><p><a href="https://gh.nite07.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe">下载(英文)</a><br><a href="https://gh.nite07.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.25_CN/Clash.for.Windows.Setup.0.19.25.exe">下载(中文)</a></p><h1 id="配置-Clash-for-Windows"><a href="#配置-Clash-for-Windows" class="headerlink" title="配置 Clash for Windows"></a>配置 Clash for Windows</h1><ol><li>打开 Clash for Windows</li><li>点击 <strong>Profiles</strong></li><li>把订阅链接复制到写着 <strong>Download from a URL</strong> 的文本框里（订阅链接可以通过网上分享的免费资源或者付费机场获得）</li><li>点击 <strong>Proxies</strong></li><li>选择 <strong>Rule</strong></li><li>点击像 wifi 的图标进行测试</li><li>后面显示延迟的节点就是能用的</li><li>点击即可选中</li></ol><h1 id="Clash-for-Windws-开机自启"><a href="#Clash-for-Windws-开机自启" class="headerlink" title="Clash for Windws 开机自启"></a>Clash for Windws 开机自启</h1><p>在 <strong>General</strong> 页面打开 <strong>Start with Windows</strong></p><h1 id="Clash-for-Windows-UWP-应用代理"><a href="#Clash-for-Windows-UWP-应用代理" class="headerlink" title="Clash for Windows UWP 应用代理"></a>Clash for Windows UWP 应用代理</h1><p>UWP应用简单来说就是系统自带应用和从微软商店下载的软件，这类软件需要特殊设置</p><ol><li>打开 Clash for Windows</li><li>点击 <strong>General</strong></li><li>点击 <strong>UWP Loopback</strong></li><li>选择需要代理的应用</li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="Clash-for-Windows"><a href="#Clash-for-Windows" class="headerlink" title="Clash for Windows"></a>Clash for Windows</h1><p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases/">Github下载(英文)</a><br><a href="https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/">Github下载(中文)</a></p><h1 id="配置-Clash-for-Windows"><a href="#配置-Clash-for-Windows" class="headerlink" title="配置 Clash for Windows"></a>配置 Clash for Windows</h1><ol><li>打开 Clash for Windows</li><li>点击 <strong>Profiles</strong></li><li>把订阅链接复制到写着 <strong>Download from a URL</strong> 的文本框里（订阅链接可以通过网上分享的免费资源或者付费机场获得）</li><li>点击 <strong>Proxies</strong></li><li>选择 <strong>Rule</strong></li><li>点击像 wifi 的图标进行测试</li><li>后面显示延迟的节点就是能用的</li><li>点击即可选中</li></ol><h1 id="Clash-for-Windws-开机自启"><a href="#Clash-for-Windws-开机自启" class="headerlink" title="Clash for Windws 开机自启"></a>Clash for Windws 开机自启</h1><p>在 <strong>General</strong> 页面打开 <strong>Start with Windows</strong></p><h1 id="Clash-for-Windows-UWP-应用代理"><a href="#Clash-for-Windows-UWP-应用代理" class="headerlink" title="Clash for Windows UWP 应用代理"></a>Clash for Windows UWP 应用代理</h1><p>UWP应用简单来说就是系统自带应用和从微软商店下载的软件，这类软件需要特殊设置</p><ol><li>打开 Clash for Windows</li><li>点击 <strong>General</strong></li><li>点击 <strong>UWP Loopback</strong></li><li>选择需要代理的应用</li></ol>]]></content>
       
       
       <categories>
@@ -18214,11 +18214,11 @@
     
     
     <entry>
-      <title>V2rayN 5.28 及使用教程</title>
+      <title>V2rayN 及使用教程</title>
       <link href="/v2raynguide/"/>
       <url>/v2raynguide/</url>
       
-        <content type="html"><![CDATA[<h1 id="V2rayN-下载"><a href="#V2rayN-下载" class="headerlink" title="V2rayN 下载"></a>V2rayN 下载</h1><p><a href="https://gh.nite07.com/https://github.com/2dust/v2rayN/releases/download/5.28/v2rayN-Core.zip">下载</a></p><h1 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h1><p>订阅是一个网页链接，打开后里面都是字母，一个订阅是多个节点的集合</p><p><img src="/img/V2rayN/2.png"></p><ol><li>首先复制订阅链接</li><li>点击 <strong>订阅 -&gt; 订阅设置</strong>，添加订阅</li><li>点击 <strong>订阅 -&gt; 更新订阅</strong>，更新订阅</li></ol><p><img src="/img/V2rayN/3.png"></p><p><img src="/img/V2rayN/4.png"></p><h1 id="添加节点"><a href="#添加节点" class="headerlink" title="添加节点"></a>添加节点</h1><p>单个节点链接是以 <code>vmess://</code>、<code>ss://</code>、<code>trojan://</code> 等格式开头的，例如：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWYxLXRnQGZyZWVub2RlcyIsDQogICJhZGQiOiAiMTg4LjE2Ni4yNTAuMjQzIiwNCiAgInBvcnQiOiAiMTg5OTgiLA0KICAiaWQiOiAiNGRkN2ZhNDUtMzQxMC00ZWZmLWI1MmItNmFkZmIzOTdkNTg4IiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJodHRwOi8vZWMyLTU0LTIyMy0xMjAtMTYxLmNuLW5vcnRoLTEuY29tcHV0ZS5hbWF6b25hd3MuY29tLmNuLGY5MzJjM2Q5ODk4MWIuZG93bmxvYWQubWljcm9zb2Z0LmNvbSIsDQogICJwYXRoIjogIi9wYXRoIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiDQp9</span><br></pre></td></tr></table></figure><ol><li>复制单个或多个节点链接</li><li>点击 <strong>服务器 -&gt; 从剪辑版导入批量URL</strong></li></ol><h1 id="判断节点是否可用"><a href="#判断节点是否可用" class="headerlink" title="判断节点是否可用"></a>判断节点是否可用</h1><ol><li>点击节点列表，按下 <strong>Ctrl + A</strong> 全选</li><li>右键列表点击 <strong>测试服务器延迟Ping（多选）</strong></li><li>等待检测，看 <strong>测试结果</strong> 一栏，哪一个有具体延迟（xxms）哪个节点就可用</li></ol><h1 id="使用节点"><a href="#使用节点" class="headerlink" title="使用节点"></a>使用节点</h1><p>列表选中任意节点右击 <strong>设为活动服务器</strong> 或者 选中节点后按下回车键</p><h1 id="开启系统代理"><a href="#开启系统代理" class="headerlink" title="开启系统代理"></a>开启系统代理</h1><p>右键右下角托盘图标，点击 <strong>系统代理 -&gt; 自动配置系统代理</strong></p><p>开启系统代理有时候会导致部分使用国内网络的软件加载缓慢，个人建议给每个需要代理的软件单独设置Socks代理，例如：浏览器使用 <a href="..%5Cswitchyomegaguide%5C">SwitchyOmega</a>、支持代理的软件在设置中设置、不支持代理的软件使用 <a href="..%5Cproxifier%5C">Proxifier</a> 之类的软件</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="V2rayN-下载"><a href="#V2rayN-下载" class="headerlink" title="V2rayN 下载"></a>V2rayN 下载</h1><p><a href="https://github.com/2dust/v2rayN/releases/">Github下载</a></p><h1 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h1><p>订阅是一个网页链接，打开后里面都是字母，一个订阅是多个节点的集合</p><p><img src="/img/V2rayN/2.png"></p><ol><li>首先复制订阅链接</li><li>点击 <strong>订阅 -&gt; 订阅设置</strong>，添加订阅</li><li>点击 <strong>订阅 -&gt; 更新订阅</strong>，更新订阅</li></ol><p><img src="/img/V2rayN/3.png"></p><p><img src="/img/V2rayN/4.png"></p><h1 id="添加节点"><a href="#添加节点" class="headerlink" title="添加节点"></a>添加节点</h1><p>单个节点链接是以 <code>vmess://</code>、<code>ss://</code>、<code>trojan://</code> 等格式开头的，例如：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWYxLXRnQGZyZWVub2RlcyIsDQogICJhZGQiOiAiMTg4LjE2Ni4yNTAuMjQzIiwNCiAgInBvcnQiOiAiMTg5OTgiLA0KICAiaWQiOiAiNGRkN2ZhNDUtMzQxMC00ZWZmLWI1MmItNmFkZmIzOTdkNTg4IiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJodHRwOi8vZWMyLTU0LTIyMy0xMjAtMTYxLmNuLW5vcnRoLTEuY29tcHV0ZS5hbWF6b25hd3MuY29tLmNuLGY5MzJjM2Q5ODk4MWIuZG93bmxvYWQubWljcm9zb2Z0LmNvbSIsDQogICJwYXRoIjogIi9wYXRoIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiDQp9</span><br></pre></td></tr></table></figure><ol><li>复制单个或多个节点链接</li><li>点击 <strong>服务器 -&gt; 从剪辑版导入批量URL</strong></li></ol><h1 id="判断节点是否可用"><a href="#判断节点是否可用" class="headerlink" title="判断节点是否可用"></a>判断节点是否可用</h1><ol><li>点击节点列表，按下 <strong>Ctrl + A</strong> 全选</li><li>右键列表点击 <strong>测试服务器延迟Ping（多选）</strong></li><li>等待检测，看 <strong>测试结果</strong> 一栏，哪一个有具体延迟（xxms）哪个节点就可用</li></ol><h1 id="使用节点"><a href="#使用节点" class="headerlink" title="使用节点"></a>使用节点</h1><p>列表选中任意节点右击 <strong>设为活动服务器</strong> 或者 选中节点后按下回车键</p><h1 id="开启系统代理"><a href="#开启系统代理" class="headerlink" title="开启系统代理"></a>开启系统代理</h1><p>右键右下角托盘图标，点击 <strong>系统代理 -&gt; 自动配置系统代理</strong></p><p>开启系统代理有时候会导致部分使用国内网络的软件加载缓慢，个人建议给每个需要代理的软件单独设置Socks代理，例如：浏览器使用 <a href="..%5Cswitchyomegaguide%5C">SwitchyOmega</a>、支持代理的软件在设置中设置、不支持代理的软件使用 <a href="..%5Cproxifier%5C">Proxifier</a> 之类的软件</p>]]></content>
       
       
       <categories>
@@ -18418,11 +18418,11 @@
     
     
     <entry>
-      <title>V2rayNG 1.7.13 及使用教程</title>
+      <title>V2rayNG 及使用教程</title>
       <link href="/v2rayng/"/>
       <url>/v2rayng/</url>
       
-        <content type="html"><![CDATA[<h1 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h1><h2 id="机场用户"><a href="#机场用户" class="headerlink" title="机场用户"></a>机场用户</h2><ol><li><p>进入机场页面，点击 <strong>复制 V2Ray 订阅设置</strong>  </p><p><img src="/img/V2rayNG/2.png"></p></li><li><p>打开 V2rayNG，点击左侧汉堡菜单<br><img src="/img/V2rayNG/3.png"></p></li><li><p>选择订阅设置<br><img src="/img/V2rayNG/4.png"></p></li><li><p>点击右上角 + 号<br><img src="/img/V2rayNG/5.png"></p></li><li><p>备注随便填，地址粘贴刚刚复制的内容  </p></li><li><p>回到首页  </p></li><li><p>点击右上角三个点，更新订阅<br><img src="/img/V2rayNG/6.png"></p></li><li><p>点击右上角三个点，测试全部配置Tcping  </p></li><li><p>选择一个后面有延迟的节点<br>   <img src="/img/V2rayNG/7.png"></p></li><li><p>点击右下角图标开启代理<br>   <img src="/img/V2rayNG/8.png"></p></li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/2dust/v2rayNG/releases/download/1.7.13/v2rayNG_1.7.13.apk">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h1><h2 id="机场用户"><a href="#机场用户" class="headerlink" title="机场用户"></a>机场用户</h2><ol><li><p>进入机场页面，点击 <strong>复制 V2Ray 订阅设置</strong>  </p><p><img src="/img/V2rayNG/2.png"></p></li><li><p>打开 V2rayNG，点击左侧汉堡菜单<br><img src="/img/V2rayNG/3.png"></p></li><li><p>选择订阅设置<br><img src="/img/V2rayNG/4.png"></p></li><li><p>点击右上角 + 号<br><img src="/img/V2rayNG/5.png"></p></li><li><p>备注随便填，地址粘贴刚刚复制的内容  </p></li><li><p>回到首页  </p></li><li><p>点击右上角三个点，更新订阅<br><img src="/img/V2rayNG/6.png"></p></li><li><p>点击右上角三个点，测试全部配置Tcping  </p></li><li><p>选择一个后面有延迟的节点<br>   <img src="/img/V2rayNG/7.png"></p></li><li><p>点击右下角图标开启代理<br>   <img src="/img/V2rayNG/8.png"></p></li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/2dust/v2rayNG/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -19441,11 +19441,11 @@
     
     
     <entry>
-      <title>阅读 3.22.072122 去除书源限制</title>
+      <title>阅读 原版及去除书源限制版</title>
       <link href="/yuedu/"/>
       <url>/yuedu/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>阅读, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。这款软件本身并没有小说和动漫而是一款解析器，软件的灵魂是<strong>书源</strong>。可以自定义来源阅读网络内容。</p><ul><li>界面简介 专注阅读</li><li>体积虽小 功能齐全</li><li>书源丰富 全网尽收</li><li>书源编辑 自给自足</li><li>发现版块 寻书简便</li><li>自定排版 功能丰富</li></ul><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E9%98%85%E8%AF%BB/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/10bits/gedoor-Build/releases/download/legado-3.22.072122/legado-3.22.072122.apk">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>阅读, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。这款软件本身并没有小说和动漫而是一款解析器，软件的灵魂是<strong>书源</strong>。可以自定义来源阅读网络内容。</p><ul><li>界面简介 专注阅读</li><li>体积虽小 功能齐全</li><li>书源丰富 全网尽收</li><li>书源编辑 自给自足</li><li>发现版块 寻书简便</li><li>自定排版 功能丰富</li></ul><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/%E9%98%85%E8%AF%BB/2.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="原版"><a href="#原版" class="headerlink" title="原版"></a>原版</h2><p><a href="https://github.com/gedoor/legado/releases">Github下载</a></p><h2 id="无书源限制版"><a href="#无书源限制版" class="headerlink" title="无书源限制版"></a>无书源限制版</h2><p><a href="https://github.com/10bits/gedoor-Build/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -19478,11 +19478,11 @@
     
     
     <entry>
-      <title>Powertoys 0.60.1 官方版 - 微软官方 Windows 工具集</title>
+      <title>Powertoys - 微软官方 Windows 工具集</title>
       <link href="/powertoys/"/>
       <url>/powertoys/</url>
       
-        <content type="html"><![CDATA[<h1 id="Powertoys"><a href="#Powertoys" class="headerlink" title="Powertoys"></a>Powertoys</h1><p>微软官方开发的 Windows 工具集</p><h1 id="介绍视频"><a href="#介绍视频" class="headerlink" title="介绍视频"></a>介绍视频</h1><blockquote><p>视频作者: Topbook(BiliBili)</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=502684056&bvid=BV1fK411F7AD&cid=328956401&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="video"> </iframe><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/microsoft/PowerToys/releases/download/v0.60.1/PowerToysSetup-0.60.1-x64.exe">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Powertoys"><a href="#Powertoys" class="headerlink" title="Powertoys"></a>Powertoys</h1><p>微软官方开发的 Windows 工具集</p><h1 id="介绍视频"><a href="#介绍视频" class="headerlink" title="介绍视频"></a>介绍视频</h1><blockquote><p>视频作者: Topbook(BiliBili)</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=502684056&bvid=BV1fK411F7AD&cid=328956401&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="video"> </iframe><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/microsoft/PowerToys/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -19873,11 +19873,11 @@
     
     
     <entry>
-      <title>qBittorrent Enhanced 4.4.3.12</title>
+      <title>qBittorrent 增强版(Enhanced)</title>
       <link href="/qbittorrentenhanced/"/>
       <url>/qbittorrentenhanced/</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>qBittorrent是一个跨平台的自由BitTorrent客户端，其图形用户界面是由Qt所写成的。使用libtorrent作为后端。是由Christophe Dumez在贝尔福 - 蒙贝利亚尔理工大学时开始开发。从2006年3月开始， qBittorrent进行积极的开发。qBittorrent试着提供比其他常见的相同类型的程序更轻巧，但更强大、更直觉、以及更有吸引力的外观。qBittorrent提供一个类似μTorrent但开放源代码且跨平台的选择，并加入了一个类似流的功能，让用户可以一边下载，一边观看该视频。qBittorrent拥有的功能大略可与Vuze等其他较流行的BitTorrent客户端相比，但却不需要Java虚拟机。qBittorrent在搜索种子文件时只需要用到Python，而不像其他客户端（如Deluge或BitTornado）需要用到BitTorrent协议。</p><h1 id="增强内容"><a href="#增强内容" class="headerlink" title="增强内容"></a>增强内容</h1><ul><li>自动禁止迅雷、QQ、百度、Xfplay、DLBT和离线下载器</li><li>自动禁止来自中国的未知同行选项（默认：关闭）。</li><li>自动更新公共追踪器列表（默认：关闭）。</li><li>自动禁止BitTorrent媒体播放器同行选项（默认：关闭）。</li><li>同行白名单&#x2F;黑名单</li></ul><h1 id="添加-Tracker"><a href="#添加-Tracker" class="headerlink" title="添加 Tracker"></a>添加 Tracker</h1><p><a href="https://trackerslist.com/#/zh">Tracker项目</a></p><p><img src="/img/qBittorrent%E5%A2%9E%E5%BC%BA%E7%89%88/2.png"></p><p>在 <strong>选项</strong> 中 点击  <strong>BitTorrent</strong>   添加 <code>https://trackerslist.com/all.txt</code> 到  <strong>‘Automatically</strong> 后点击 Refresh 按钮</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/qBittorrent%E5%A2%9E%E5%BC%BA%E7%89%88/3.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://gh.nite07.com/https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.3.12/qbittorrent_enhanced_4.4.3.12_Qt6_setup.exe">下载</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>qBittorrent是一个跨平台的自由BitTorrent客户端，其图形用户界面是由Qt所写成的。使用libtorrent作为后端。是由Christophe Dumez在贝尔福 - 蒙贝利亚尔理工大学时开始开发。从2006年3月开始， qBittorrent进行积极的开发。qBittorrent试着提供比其他常见的相同类型的程序更轻巧，但更强大、更直觉、以及更有吸引力的外观。qBittorrent提供一个类似μTorrent但开放源代码且跨平台的选择，并加入了一个类似流的功能，让用户可以一边下载，一边观看该视频。qBittorrent拥有的功能大略可与Vuze等其他较流行的BitTorrent客户端相比，但却不需要Java虚拟机。qBittorrent在搜索种子文件时只需要用到Python，而不像其他客户端（如Deluge或BitTornado）需要用到BitTorrent协议。</p><h1 id="增强内容"><a href="#增强内容" class="headerlink" title="增强内容"></a>增强内容</h1><ul><li>自动禁止迅雷、QQ、百度、Xfplay、DLBT和离线下载器</li><li>自动禁止来自中国的未知同行选项（默认：关闭）。</li><li>自动更新公共追踪器列表（默认：关闭）。</li><li>自动禁止BitTorrent媒体播放器同行选项（默认：关闭）。</li><li>同行白名单&#x2F;黑名单</li></ul><h1 id="添加-Tracker"><a href="#添加-Tracker" class="headerlink" title="添加 Tracker"></a>添加 Tracker</h1><p><a href="https://trackerslist.com/#/zh">Tracker项目</a></p><p><img src="/img/qBittorrent%E5%A2%9E%E5%BC%BA%E7%89%88/2.png"></p><p>在 <strong>选项</strong> 中 点击  <strong>BitTorrent</strong>   添加 <code>https://trackerslist.com/all.txt</code> 到  <strong>‘Automatically</strong> 后点击 Refresh 按钮</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/img/qBittorrent%E5%A2%9E%E5%BC%BA%E7%89%88/3.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/">Github下载</a></p>]]></content>
       
       
       <categories>
@@ -19955,7 +19955,7 @@
       <link href="/e5developer/"/>
       <url>/e5developer/</url>
       
-        <content type="html"><![CDATA[<h1 id="Office-365开发人员计划"><a href="#Office-365开发人员计划" class="headerlink" title="Office 365开发人员计划"></a>Office 365开发人员计划</h1><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/2.jpg"></p><p><a href="https://developer.microsoft.com/zh-cn/microsoft-365/dev-program">官方链接</a></p><h1 id="为什么加入Office-365开发人员计划"><a href="#为什么加入Office-365开发人员计划" class="headerlink" title="为什么加入Office 365开发人员计划"></a>为什么加入Office 365开发人员计划</h1><ul><li>免费使用 Office 365 正版应用</li><li>Onedrive 网盘 5T 空间</li><li>可创建25个子账号分享给别人，每个人都可以拥有同样的订阅服务</li></ul><h1 id="如何申请"><a href="#如何申请" class="headerlink" title="如何申请"></a>如何申请</h1><ol><li><p>点击官网 <strong>立即加入</strong> 按钮</p></li><li><p>登录微软账号</p></li><li><p>填写信息，下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/3.png"></p></li><li><p>随便选，一直下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/4.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/5.png"></p></li><li><p>点击 <strong>设置E5订阅</strong><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/6.png"></p></li><li><p>用户名和域根据需求填写，验证手机号之后等待操作<br><code>admin@nite07example.onmicrosoft.com</code> 这里是你的E5管理员账号(就是一个微软账号)<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/7.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/8.png"></p></li><li><p>出现这个界面就是申请完成了<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/9.png"></p></li></ol><p><strong>注意: 申请的E5账号有效期为90天，微软会玄学续订，想要提高续订概率请阅读下文 自动续订</strong></p><h1 id="设置-5T-Onedrive-空间"><a href="#设置-5T-Onedrive-空间" class="headerlink" title="设置 5T Onedrive 空间"></a>设置 5T Onedrive 空间</h1><p><a href="https://admin.onedrive.com/">点击进入设置</a></p><ol><li>登录E5管理员账号</li><li>点击 <code>设置 -&gt; 储存空间上限</code><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/10.png"></li><li>设置为 <strong>5120</strong> 保存<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/11.png"></li></ol><h1 id="创建子账号"><a href="#创建子账号" class="headerlink" title="创建子账号"></a>创建子账号</h1><p><a href="https://admin.microsoft.com/">点击进入设置</a></p><ol><li>登录E5管理员账号（本例中为<code>admin@nite07example.onmicrosoft.com</code>）</li><li>点击 <code>用户 -&gt; 活跃用户 -&gt; 添加用户</code> ，设置用户 <strong>显示名称</strong> 和 <strong>用户名</strong> 下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/12.png"></li><li>在 许可证 这一步可以选择是否给新建用户增加权限<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/13.png"></li><li>其他设置按需填写</li></ol><h1 id="添加个人域名缩短账号长度"><a href="#添加个人域名缩短账号长度" class="headerlink" title="添加个人域名缩短账号长度"></a>添加个人域名缩短账号长度</h1><blockquote><p>个人域名需要购买</p></blockquote><p>在 Microsoft 365 admin center 中 点击 <code>设置 -&gt; 域 -&gt; 添加域</code> 输入个人域名后按提示解析域名即可<br>成功绑定域之后可以把新域作为微软账号（即替换 <code>example.onmicrosoft.com</code>）<br>例如:<br>   我的域名为：nite07.com<br>   我的E5微软账号为：<a href="mailto:&#x6e;&#105;&#x74;&#x65;&#x30;&#55;&#x40;&#x6e;&#x69;&#x74;&#x65;&#48;&#55;&#x2e;&#99;&#111;&#109;">&#x6e;&#105;&#x74;&#x65;&#x30;&#55;&#x40;&#x6e;&#x69;&#x74;&#x65;&#48;&#55;&#x2e;&#99;&#111;&#109;</a></p><h1 id="自动续订"><a href="#自动续订" class="headerlink" title="自动续订"></a>自动续订</h1><blockquote><p>以下方法不保证 100% 成功续订</p></blockquote><h2 id="方法一：e5-qyi-io"><a href="#方法一：e5-qyi-io" class="headerlink" title="方法一：e5.qyi.io"></a>方法一：e5.qyi.io</h2><blockquote><p>此方法需要有 <a href="https://github.com/">Github</a> 账号</p></blockquote><p><a href="https://e5.qyi.io/">点击前往设置</a><br><a href="https://qyi.io/archives/687.html">点击查看官方教程</a></p><h2 id="方法二：Microsoft365-E5-Renew-Plus"><a href="#方法二：Microsoft365-E5-Renew-Plus" class="headerlink" title="方法二：Microsoft365 E5 Renew Plus"></a>方法二：Microsoft365 E5 Renew Plus</h2><p><a href="https://file.nite07.com/cn/Microsoft365%20E5%20Renew%20Plus.zip">下载</a></p><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/14.jpg"></p><p>详细用法参考 <a href="https://docs.qq.com/doc/DV1BibHVSSUhtUXdi">官方帮助</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Office-365开发人员计划"><a href="#Office-365开发人员计划" class="headerlink" title="Office 365开发人员计划"></a>Office 365开发人员计划</h1><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/2.jpg"></p><p><a href="https://developer.microsoft.com/zh-cn/microsoft-365/dev-program">官方链接</a></p><h1 id="为什么加入Office-365开发人员计划"><a href="#为什么加入Office-365开发人员计划" class="headerlink" title="为什么加入Office 365开发人员计划"></a>为什么加入Office 365开发人员计划</h1><ul><li>免费使用 Office 365 正版应用</li><li>Onedrive 网盘 5T 空间</li><li>可创建25个子账号分享给别人，每个人都可以拥有同样的订阅服务</li></ul><h1 id="如何申请"><a href="#如何申请" class="headerlink" title="如何申请"></a>如何申请</h1><ol><li><p>点击官网 <strong>立即加入</strong> 按钮</p></li><li><p>登录微软账号</p></li><li><p>填写信息，下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/3.png"></p></li><li><p>随便选，一直下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/4.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/5.png"></p></li><li><p>点击 <strong>设置E5订阅</strong><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/6.png"></p></li><li><p>用户名和域根据需求填写，验证手机号之后等待操作<br><code>admin@nite07example.onmicrosoft.com</code> 这里是你的E5管理员账号(就是一个微软账号)<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/7.png"><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/8.png"></p></li><li><p>出现这个界面就是申请完成了<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/9.png"></p></li></ol><p><strong>注意: 申请的E5账号有效期为90天，微软会玄学续订，想要提高续订概率请阅读下文 自动续订</strong></p><h1 id="设置-5T-Onedrive-空间"><a href="#设置-5T-Onedrive-空间" class="headerlink" title="设置 5T Onedrive 空间"></a>设置 5T Onedrive 空间</h1><p><a href="https://admin.onedrive.com/">点击进入设置</a></p><ol><li>登录E5管理员账号</li><li>点击 <code>设置 -&gt; 储存空间上限</code><br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/10.png"></li><li>设置为 <strong>5120</strong> 保存<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/11.png"></li></ol><h1 id="创建子账号"><a href="#创建子账号" class="headerlink" title="创建子账号"></a>创建子账号</h1><p><a href="https://admin.microsoft.com/">点击进入设置</a></p><ol><li>登录E5管理员账号（本例中为<code>admin@nite07example.onmicrosoft.com</code>）</li><li>点击 <code>用户 -&gt; 活跃用户 -&gt; 添加用户</code> ，设置用户 <strong>显示名称</strong> 和 <strong>用户名</strong> 下一步<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/12.png"></li><li>在 许可证 这一步可以选择是否给新建用户增加权限<br><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/13.png"></li><li>其他设置按需填写</li></ol><h1 id="添加个人域名缩短账号长度"><a href="#添加个人域名缩短账号长度" class="headerlink" title="添加个人域名缩短账号长度"></a>添加个人域名缩短账号长度</h1><blockquote><p>个人域名需要购买</p></blockquote><p>在 Microsoft 365 admin center 中 点击 <code>设置 -&gt; 域 -&gt; 添加域</code> 输入个人域名后按提示解析域名即可<br>成功绑定域之后可以把新域作为微软账号（即替换 <code>example.onmicrosoft.com</code>）<br>例如:<br>   我的域名为：nite07.com<br>   我的E5微软账号为：<a href="mailto:&#110;&#105;&#116;&#101;&#x30;&#x37;&#x40;&#110;&#105;&#116;&#x65;&#x30;&#x37;&#46;&#99;&#x6f;&#x6d;">&#110;&#105;&#116;&#101;&#x30;&#x37;&#x40;&#110;&#105;&#116;&#x65;&#x30;&#x37;&#46;&#99;&#x6f;&#x6d;</a></p><h1 id="自动续订"><a href="#自动续订" class="headerlink" title="自动续订"></a>自动续订</h1><blockquote><p>以下方法不保证 100% 成功续订</p></blockquote><h2 id="方法一：e5-qyi-io"><a href="#方法一：e5-qyi-io" class="headerlink" title="方法一：e5.qyi.io"></a>方法一：e5.qyi.io</h2><blockquote><p>此方法需要有 <a href="https://github.com/">Github</a> 账号</p></blockquote><p><a href="https://e5.qyi.io/">点击前往设置</a><br><a href="https://qyi.io/archives/687.html">点击查看官方教程</a></p><h2 id="方法二：Microsoft365-E5-Renew-Plus"><a href="#方法二：Microsoft365-E5-Renew-Plus" class="headerlink" title="方法二：Microsoft365 E5 Renew Plus"></a>方法二：Microsoft365 E5 Renew Plus</h2><p><a href="https://file.nite07.com/cn/Microsoft365%20E5%20Renew%20Plus.zip">下载</a></p><p><img src="/img/E5%E5%BC%80%E5%8F%91%E8%80%85/14.jpg"></p><p>详细用法参考 <a href="https://docs.qq.com/doc/DV1BibHVSSUhtUXdi">官方帮助</a></p>]]></content>
       
       
       <categories>
@@ -20059,9 +20059,9 @@
           
           <category> Windows </category>
           
-          <category> 压缩解压 </category>
-          
           <category> 站长推荐 </category>
+          
+          <category> 压缩解压 </category>
           
       </categories>
       
